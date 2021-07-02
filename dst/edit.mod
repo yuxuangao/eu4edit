@@ -1,3 +1,3 @@
 name = "edit"
 path = "mod/edit"
-supported_version = "1.30"
+supported_version = "1.30.*"
