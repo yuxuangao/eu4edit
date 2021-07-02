@@ -1675,6 +1675,7 @@ chinese_ideas = {
 	scholar_gentry = { #卿士大夫
 		#stability_cost_modifier = -0.1 #稳定花费
 		global_unrest = -2 #全国叛乱度
+		free_leader_pool = 2 #免维护费将领
 	}
 	order_of_four_occupations = { #士农工商
 		production_efficiency = 0.10 #生产效率
