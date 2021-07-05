@@ -1,0 +1,75 @@
+country_decisions = {
+
+    edit_occupate_lhasa = {
+        major = yes
+        potential = {
+			has_reform = celestial_empire
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT has_harmonized_with = vajrayana
+            religion = confucianism
+		}
+        allow = {
+            is_at_war = no
+            owns_core_province = 677
+            harmony = 70
+        }
+        effect = {
+			add_harmonized_religion = vajrayana
+            add_harmony = -20
+		}
+        ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					NOT = { adm_power = 100 }
+                    NOT = { dip_power = 100 }
+				}
+			}
+		}
+    }
+
+    edit_occupate_all_china {
+        major = yes
+        potential = {
+			has_reform = celestial_empire
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+		}
+        allow = {
+            owns_all_provinces = {
+                region = north_china_region
+            }
+            owns_all_provinces = {
+                region = south_china_region
+            }
+            owns_all_provinces = {
+                region = xinan_region
+            }
+        }
+        effect = {
+            tibet_region = {
+                limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+            }
+        }
+        ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					NOT = { mil_power = 100 }
+                    NOT = { dip_power = 100 }
+				}
+			}
+		}
+    }
+
+}
