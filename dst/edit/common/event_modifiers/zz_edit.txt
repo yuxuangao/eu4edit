@@ -1,0 +1,4 @@
+edit_developed_captical = {
+    num_accepted_cultures = 2
+    reduced_liberty_desire = 10
+}
