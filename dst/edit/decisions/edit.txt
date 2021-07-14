@@ -8,7 +8,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-            NOT has_harmonized_with = vajrayana
+            NOT = { has_harmonized_with = vajrayana }
             religion = confucianism
 		}
         allow = {
@@ -40,6 +40,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
+			NOT = { has_country_flag = edit_claim_tibet_flag }
 		}
         allow = {
             owns_all_provinces = {
@@ -59,6 +60,7 @@ country_decisions = {
 				}
 				add_permanent_claim = ROOT
             }
+			set_country_flag = edit_claim_tibet_flag
         }
         ai_will_do = {
 			factor = 1
