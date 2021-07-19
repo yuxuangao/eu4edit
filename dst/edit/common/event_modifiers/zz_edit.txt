@@ -2,3 +2,31 @@ edit_developed_captical = {
     num_accepted_cultures = 2
     reduced_liberty_desire = 10
 }
+
+edit_china_emperor = {
+    imperial_mandate = 0.1
+}
+
+edit_for_the_navy = {
+    global_ship_recruit_speed = -0.1
+    global_ship_cost = -0.1
+}
+
+edit_enhanced_navt = {
+    heavy_ship_power = 0.1
+    naval_morale = 0.1
+    ship_durability = 0.1
+}
+
+edit_japanese_trade = {
+    merchants = 1
+    trade_steering = 0.1
+}
+
+edit_america_colonize = {
+    global_colonial_growth = 10
+}
+
+edit_australia_colonize = {
+    colonist_placement_chance = 0.05
+}

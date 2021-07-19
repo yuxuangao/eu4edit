@@ -1,0 +1,496 @@
+edit_missions_1 = {
+    slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		capital_scope = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+		}
+	}
+    has_country_shield = yes
+
+    become_to_lord = {
+        icon = mission_build_up_to_force_limit
+        required_missions = {  }
+        position = 1
+        trigger = {
+            num_of_provinces_in_states = 15
+            stability = 1
+            army_size = 15
+            army_size_percentage = 0.75
+        }
+        effect = {
+            capital_scope = {
+                add_base_tax = 2
+                add_base_production = 2
+                add_base_manpower = 2
+            }
+        }
+    }
+
+    become_to_big_lord = {
+        icon = mission_unite_home_region
+        required_missions = { become_to_lord }
+        position = 2
+        provinces_to_highlight = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+            num_of_owned_provinces_with = {
+                value = 50
+                is_core = ROOT
+                OR = {
+                    region = south_china_region
+                    region = xinan_region
+                    region = north_china_region
+                }
+            }
+		}
+        effect = {
+            south_china_region = {
+                limit = {
+                    owned_by = ROOT
+                }
+                add_devastation = -20
+            }
+            xinan_region = {
+                limit = {
+                    owned_by = ROOT
+                }
+                add_devastation = -20
+            }
+            north_china_region = {
+                limit = {
+                    owned_by = ROOT
+                }
+                add_devastation = -20
+            }
+        }
+    }
+
+    become_to_emperor = {
+        icon = mission_great_wall
+        required_missions = { become_to_big_lord }
+        position = 3
+        trigger = {
+            has_reform = celestial_empire
+        }
+        effect = {
+            add_prestige = 10
+            add_country_modifier = {
+				name = "edit_china_emperor"
+				duration = 18250
+			}
+        }
+    }
+
+    colonize_taiwan = {
+		icon = mission_invade_island
+		required_missions = { become_to_emperor }
+        position = 4
+		provinces_to_highlight = {
+			area = taiwan_area
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			2154 = {
+				owned_by = ROOT
+			}
+			2155 = {
+				owned_by = ROOT
+			}
+			738 = {
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "colonial_enthusiasm"
+				duration = 7300
+			}
+		}
+	}
+
+    mandate_of_heaven_mission = {
+		icon = mission_scholar_officials
+		required_missions = { colonize_taiwan }
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			south_china_region = {
+				type = all
+				owned_by = ROOT
+			}
+			xinan_region = {
+				type = all
+				owned_by = ROOT
+			}
+			north_china_region = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			red_river_delta_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			vietnam_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			korea_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+    annex_dai_viet = {
+		icon = mission_chinese_general_riding
+		required_missions = { mandate_of_heaven_mission }
+        position = 6
+		provinces_to_highlight = {
+			OR = {
+				area = red_river_delta_area
+				area = vietnam_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			red_river_delta_area = {
+				type = all
+				owned_by = ROOT
+			}
+			vietnam_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			add_prestige = 20
+			add_adm_power = 100
+		}
+	}
+
+    occupate_kyoto = {
+        icon = mission_japanese_fort
+		required_missions = { defend_korea }
+		position = 7
+        provinces_to_highlight = {
+			province_id = 1020
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+        trigger = {
+			1020 = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+        effect = {
+            add_country_modifier = {
+				name = "edit_japanese_trade"
+				duration = -1
+			}
+        }
+    }
+}
+
+edit_missions_2 = {
+    slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		capital_scope = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+		}
+	}
+    has_country_shield = yes
+
+    defend_korea = {
+		icon = mission_kowtow
+		required_missions = { mandate_of_heaven_mission }
+		position = 6
+		provinces_to_highlight = {
+			region = korea_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			korea_region = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+            add_country_modifier = {
+				name = "edit_for_the_navy"
+				duration = 7300
+			}
+            japan_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+    occupate_kyushu = {
+        icon = mission_japanese_samurai
+        required_missions = { defend_korea }
+		position = 7
+        provinces_to_highlight = {
+            OR = {
+				area = northern_kyushu
+				province_id = 4181
+				province_id = 4180
+				province_id = 1012
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+        trigger = {
+            northern_kyushu = {
+                type = all
+				owned_by = ROOT
+            }
+            4181 = {
+                type = all
+				owned_by = ROOT
+            }
+            4180 = {
+                type = all
+				owned_by = ROOT
+            }
+            1012 = {
+                type = all
+				owned_by = ROOT
+            }
+        }
+        effect = {
+            add_country_modifier = {
+				name = "edit_enhanced_navt"
+				duration = -1
+			}
+        }
+    }
+}
+
+edit_missions_3 = {
+    slot = 3
+    generic = no
+	ai = yes
+	potential = {
+		capital_scope = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+		}
+	}
+    has_country_shield = yes
+
+    occupate_northeast = {
+        icon = mission_manchu_warrior
+		required_missions = { mandate_of_heaven_mission }
+		position = 6
+        provinces_to_highlight = {
+			region = manchuria_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+        trigger = {
+			manchuria_region = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+        effect = {
+			if = {
+				limit = {
+					has_dlc = "Mandate of Heaven"
+				}
+				capital_scope = {
+					add_province_modifier = {
+						name = "mukden_palace_modifier"
+						duration = -1
+					}
+				}
+			}
+			else = {
+				capital_scope = {
+					add_province_modifier = {
+						name = "mukden_palace_modifier_fallback"
+						duration = -1
+					}
+				}
+			}
+		}
+    }
+
+    colonize_america = {
+        icon = mission_junk_boat
+		required_missions = { occupate_northeast }
+		position = 7
+        trigger = {
+            if = {
+				limit = {
+					is_random_new_world = no
+				}
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 2
+					OR = {
+                        continent = north_america
+				        continent = south_america
+                    }
+					is_city = yes
+				}
+			}
+			else = {
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 2
+					continent = new_world
+					is_city = yes
+				}
+			}
+        }
+        effect = {
+            add_country_modifier = {
+				name = "edit_america_colonize"
+				duration = -1
+			}
+        }
+    }
+}
+
+edit_missions_4 = {
+    slot = 4
+    generic = no
+	ai = yes
+	potential = {
+		capital_scope = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+		}
+	}
+    has_country_shield = yes
+
+    colonize_australia = {
+		icon = mission_rice_field
+		required_missions = { mandate_of_heaven_mission }
+		position = 6
+        trigger = {
+            num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+                value = 2
+                OR = {
+                    region = australia_region
+                }
+                is_city = yes
+            }
+        }
+        effect = {
+            add_country_modifier = {
+				name = "edit_america_colonize"
+				duration = -1
+			}
+        }
+	}
+}
+
+edit_missions_5 = {
+    slot = 5
+    generic = no
+	ai = yes
+	potential = {
+		capital_scope = {
+			OR = {
+				region = south_china_region
+				region = xinan_region
+				region = north_china_region
+			}
+		}
+	}
+    has_country_shield = yes
+
+    mch_harmonious_empire = {
+		icon = mission_rice_field
+		required_missions = {  }
+		position = 3
+		provinces_to_highlight = {
+			superregion = china_superregion
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			china_superregion = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			if = {
+				limit = {
+					has_dlc = "Mandate of Heaven"
+					religion = confucianism
+				}
+				harmony = 100
+				num_of_harmonized = 3
+			}
+			else = {
+				religious_unity = 1
+			}
+			NOT = { average_unrest = 3 }
+		}
+		effect = {
+			add_country_modifier = {
+				name = "the_sacred_edict"
+				duration = -1
+			}
+		}
+	}
+}

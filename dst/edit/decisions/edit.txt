@@ -32,6 +32,65 @@ country_decisions = {
 		}
     }
 
+    edit_claim_china = {
+        major = yes
+        potential = {
+			OR = {
+                culture_group = east_asian #Chinese
+                tag = CGS #Changsheng
+            }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { has_country_flag = edit_claim_china_flag }
+		}
+        allow = {
+            is_at_war = no
+            num_of_owned_provinces_with ={
+                value = 10
+                is_core = ROOT
+                OR = {
+                    region = south_china_region
+                    region = xinan_region
+                    region = north_china_region
+                }
+            }
+        }
+        effect = {
+            north_china_region = {
+                limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+            }
+            xinan_region = {
+                limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+            }
+            south_china_region = {
+                limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+            }
+			set_country_flag = edit_claim_china_flag
+        }
+        ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					NOT = { adm_power = 100 }
+                    NOT = { dip_power = 100 }
+                    NOT = { mil_power = 100 }
+				}
+			}
+		}
+    }
+
     edit_occupate_all_china = {
         major = yes
         potential = {
