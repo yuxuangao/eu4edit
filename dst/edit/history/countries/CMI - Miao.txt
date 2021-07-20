@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = miao
+religion = animism
+technology_group = chinese
+capital = 2174	# Umung
+
+1445.1.1 = {
+    monarch = {
+		name = "Heying"
+		dynasty = "Pan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

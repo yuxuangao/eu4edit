@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = zhongyuan
+capital = 688	#Kaifeng
+
+1445.1.1 = {
+    monarch = {
+		name = "Wanyan"
+		dynasty = "Huang"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

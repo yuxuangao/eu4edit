@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = shandong_culture
+capital = 690	#Qingzhou
+
+1445.1.1 = {
+    monarch = {
+		name = "Zaiji"
+		dynasty = "Dai"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}

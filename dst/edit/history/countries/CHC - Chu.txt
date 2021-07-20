@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = xiang
+capital = 682	#Wuchang
+
+1445.1.1 = {
+    monarch = {
+		name = "Youguang"
+		dynasty = "Cao"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}

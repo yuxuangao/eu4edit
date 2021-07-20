@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = cantonese
+capital = 667	#Canton
+
+1445.1.1 = {
+    monarch = {
+		name = "Zhaochen"
+		dynasty = "Wang"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

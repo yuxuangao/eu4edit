@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = jin
+capital = 693	#Taiyuan
+
+1445.1.1 = {
+    monarch = {
+		name = "Jihuan"
+		dynasty = "Liao"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
