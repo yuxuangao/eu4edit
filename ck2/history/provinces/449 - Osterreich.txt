@@ -1,0 +1,25 @@
+# 449 - Österreich
+
+# County Title
+title = c_osterreich
+
+# Settlements
+max_settlements = 5
+b_wien = tribal
+
+#b_wagram = castle
+
+# Misc
+culture = carantanian
+religion = slavic_pagan
+
+# History
+
+846.1.1 = { 
+	culture = german 
+	religion = catholic
+	b_klosterneuburg = castle
+	b_wien = city
+	b_korneuburg = temple
+	capital = b_klosterneuburg
+}

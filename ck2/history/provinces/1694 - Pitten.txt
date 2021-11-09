@@ -1,0 +1,21 @@
+# 1694 - Pitten
+
+# County title
+title = c_pitten
+
+# Settlements
+max_settlements = 3
+b_pitten = tribal
+
+# Misc
+culture = carantanian
+religion = slavic_pagan
+
+# History
+
+846.1.1 = { 
+	culture = german 
+	religion = catholic
+	b_pitten = castle
+	b_fischau = city
+}
