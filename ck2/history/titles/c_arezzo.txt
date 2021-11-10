@@ -6,6 +6,9 @@
 	holder = 259023
 	liege = d_toscana
 }
+936.1.1 = {
+	holder = 260623
+}
 1066.1.1 = {
 	holder = 259024
 }

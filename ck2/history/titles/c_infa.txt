@@ -21,7 +21,12 @@
 	holder=159509
 	#liege=d_tangiers
 }
+936.1.1 = {
+	holder = 159516
+	liege = d_fes
+}
 1061.1.1={
+	liege = k_mauretania
 	holder=32965
 	#liege=0
 }

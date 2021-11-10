@@ -141,6 +141,10 @@
 875.1.1 = {
 	holder = 0
 }
+927.1.1 = {
+	holder = 33350
+	liege = "d_northumberland"
+}
 1055.1.1={
 	holder=124 #Tostig Godwinson
 }

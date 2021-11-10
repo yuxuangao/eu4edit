@@ -12,6 +12,9 @@
 	liege = d_maris
 	holder=159712
 }
+936.1. = {
+	holder = 260784
+}
 987.1.2=
 {
 liege="d_rostov"

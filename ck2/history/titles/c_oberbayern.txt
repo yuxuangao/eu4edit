@@ -11,6 +11,12 @@
 875.1.1 = {
 	holder = 0
 }
+907.1.1={
+	holder = 10097
+}
+936.1.1 = {
+	liege = d_bavaria
+}
 1052.1.1 = {
 	holder = 260075
 	liege = d_bavaria

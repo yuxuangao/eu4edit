@@ -10,3 +10,10 @@
 912.1.2 = {
 	holder = 0
 }
+936.1.1 = {
+	holder = 260717
+	liege = k_ruthenia
+}
+937.1.1 = {
+	liege = 0
+}

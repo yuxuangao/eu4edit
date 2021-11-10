@@ -33,3 +33,7 @@
 	liege=0
 	holder=0
 }
+936.1.1 = {
+	liege = e_bulgaria
+	holder = 260690
+}

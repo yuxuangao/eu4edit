@@ -1,7 +1,6 @@
-1066.1.1={
-	liege="k_norway"
-	#law = agnatic_succession
-	#law = succ_primogeniture
+936.1.1 = {
+	liege = k_norway
+	holder = 260520
 }
 1066.1.1={
 	holder=102532

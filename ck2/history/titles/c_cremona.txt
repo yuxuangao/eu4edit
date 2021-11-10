@@ -89,8 +89,13 @@
 871.1.1={
 	holder=163068
 }
+936.1.1 = {
+	holder = 7923
+	liege = k_italy
+}
 1029.1.1={
 	holder=1118
+	liege = d_lombardia
 }
 1080.1.1={
 	holder = 1118

@@ -15,6 +15,10 @@
 	holder = 175050
 }
 
+913.1.1={
+	holder = 261107 # Umar II
+}
+
 1053.1.1={
 	holder = 188351 # Bhoongar I
 	liege = k_sindh

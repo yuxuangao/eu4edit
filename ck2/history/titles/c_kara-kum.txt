@@ -10,9 +10,10 @@
 	liege="d_dihistan"
 	holder=45106 # Faraz
 }
-
+936.1.1 = {
+	holder = 261027
+}
 1066.1.1={
-	liege="d_turkestan"
 	holder=20713
 }
 1077.1.1={

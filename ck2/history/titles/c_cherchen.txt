@@ -14,6 +14,9 @@
 856.1.1 = {
 	liege = d_karashar
 }
+936.1.1 = {
+	holder = 261123
+}
 #Karakhanids
 1006.1.1 = {
 	holder = 217206

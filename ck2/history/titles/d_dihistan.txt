@@ -1,10 +1,15 @@
 867.1.1={
 	holder = 45107 # Vandad Karen
 }
-
+936.1.1 = {
+	holder = 261027
+	historical_nomad = yes
+	liege = k_turkestan
+}
 1066.1.1=
 {
 	liege="k_persia"
+	historical_nomad = no
 }
 1066.1.1=
 {

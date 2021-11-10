@@ -13,6 +13,9 @@
 863.1.1={
 	holder = 41257 # Rikulfr Ylfing
 }
+936.1.1 = {
+	holder = 163107
+}
 1066.1.1 = {
 	liege="d_ostergotland"
 }

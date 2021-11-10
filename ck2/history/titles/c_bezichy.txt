@@ -10,7 +10,12 @@
 	holder = 600
 	liege = d_tver
 }
+936.1.1 = {
+	holder = 260726
+	liege = d_rostov
+}
 945.1.2={
+	liege = d_tver
 	holder = 602
 }
 970.1.2={

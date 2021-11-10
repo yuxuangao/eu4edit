@@ -10,7 +10,9 @@
 	liege="d_zabulistan"
 	holder = 163165
 }
-
+936.1.1 = {
+	holder = 261101
+}
 1066.1.1=
 {
 	liege="d_sistan"

@@ -7,10 +7,14 @@
 	liege="d_dihistan"
 	holder = 45107 # Vandad Karen
 }
-
+936.1.1 = {
+	holder = 261026
+	liege = k_khiva
+}
 1066.1.1=
 {
 	holder=93122
+	liege = d_dihistan
 }
 1073.1.1=
 {

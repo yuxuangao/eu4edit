@@ -7,10 +7,13 @@
 866.1.1={
 	holder=145180
 }
+936.1.1 = {
+	holder = 145162
+}
 #Kontostephanos dynasty
-1060.1.1=
-{
-holder=90093
+1060.1.1 = {
+	liege = d_epirus
+	holder = 90093
 }
 1093.1.1=
 {

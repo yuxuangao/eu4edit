@@ -32,9 +32,9 @@
 874.1.1={
 	liege = 0
 }
-1066.1.1=
-{
-	liege="d_mosul"
+936.1.1 = {
+	liege = d_mosul
+	holder = 260824
 }
 1066.1.1=
 {

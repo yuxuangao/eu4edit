@@ -6,6 +6,10 @@
 	liege = d_tunis
 	holder = 6887
 }
+936.1.1 = {
+	holder = 260854
+	liege = d_kabylia
+}
 1062.1.1=
 {
 liege="d_tunis"

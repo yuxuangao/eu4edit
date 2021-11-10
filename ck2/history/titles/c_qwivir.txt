@@ -14,6 +14,9 @@
 	liege="d_mazandaran"
 	holder = 45108
 }
+936.1.1 = {
+	holder = 220996
+}
 955.1.1={
 	liege="d_khorasan"
 }

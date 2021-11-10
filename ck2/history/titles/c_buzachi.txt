@@ -7,7 +7,10 @@
 	liege=d_turkestan
 	holder=258089
 }
-
+936.1.1 = {
+	holder = 261028
+	liege = d_emba
+}
 1066.1.1=
 {
 	liege=d_syr_darya

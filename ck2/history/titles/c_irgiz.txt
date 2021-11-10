@@ -11,6 +11,10 @@
 liege="k_cuman"
 holder=34870
 }
+936.1.1 = {
+	holder = 261071
+	liege = d_turgay
+}
 1066.1.1={
 	liege=d_yaik
 	holder=34963

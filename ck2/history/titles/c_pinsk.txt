@@ -11,6 +11,10 @@
 865.1.1={
 	holder=159720
 }
+936.1.1 = {
+	liege = d_minsk
+	holder = 260711
+}
 1020.1.1 = {
 	holder = 256092
 	liege = d_kiev

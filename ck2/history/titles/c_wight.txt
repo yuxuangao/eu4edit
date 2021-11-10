@@ -80,6 +80,7 @@
 }
 927.7.12={
 	liege="k_england"
+	holder = 260531
 }
 1066.1.5={
 	holder=122 #Harold Godwinson

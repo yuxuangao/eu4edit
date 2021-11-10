@@ -12,6 +12,9 @@
 	holder=159716
 	liege = 0
 }
+936.1.1 = {
+	holder = 260783
+}
 1066.1.1=
 {
 liege="d_hlynov"

@@ -6,7 +6,7 @@ title = c_nalut
 # Settlements
 max_settlements = 2
 
-b_nalut = castle
+b_nalut = tribal
 #b_fursata
 
 # Misc
@@ -15,4 +15,4 @@ religion = ibadi
 terrain = desert
 
 # History
-909.1.1 = { religion = sunni }
+1059.1.1 = { religion = sunni }

@@ -23,8 +23,9 @@
 	liege=0
 	holder=0
 }
-1299.1.1={
-	liege="k_hungary"
+936.1.1 = {
+	holder = 261321
+	liege = k_hungary
 }
 1299.1.1={
 	holder=470150

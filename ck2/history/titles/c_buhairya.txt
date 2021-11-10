@@ -1,18 +1,20 @@
 762.1.1={
-	liege="d_alexandria"
+	liege="d_faiyum"
 }
 762.1.1={
-	holder = 210023
+	holder = 210016
 }
 866.1.1={
-	liege="d_alexandria"
+	liege = k_egypt
+	holder = 261300
 }
-866.1.1={
-	holder = 163138
+936.1.1 = {
+	holder = 260921
+	liege = d_alexandria
 }
-1066.1.1=
-{
-holder=3098
+1066.1.1 = {
+	liege = d_alexandria
+	holder=3098
 }
 1097.1.1=
 {

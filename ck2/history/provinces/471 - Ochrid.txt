@@ -19,7 +19,8 @@ culture = serbian
 religion = orthodox
 
 # History
-
+930.1.1 = { culture = bulgarian }
+1066.1.1 = { culture = serbian }
 
 
 

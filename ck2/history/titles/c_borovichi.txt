@@ -10,6 +10,10 @@
 912.1.2={
 	holder = 600
 }
+936.1.1 = {
+	holder = 260725
+	liege = d_novgorod
+}
 945.1.2={
 	holder = 602
 }

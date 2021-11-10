@@ -20,12 +20,12 @@
 	liege=0
 	clear_tribute_suzerain = e_arabia
 }
-#884.1.1={
-#	holder =  # Abdullah
-#}
-#913.1.1={
-#	holder =  # Umar II
-#}
+884.1.1={
+	holder = 261106 # Abdullah
+}
+913.1.1={
+	holder = 261107 # Umar II
+}
 #943.1.1={
 #	holder =  # Muhammad
 #}

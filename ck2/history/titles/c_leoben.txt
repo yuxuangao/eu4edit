@@ -57,6 +57,7 @@ liege="d_carinthia"
 930.1.2=
 {
 	holder=32002
+	liege = d_carinthia
 }
 976.1.2=
 {

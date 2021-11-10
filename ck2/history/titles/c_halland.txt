@@ -6,6 +6,10 @@
 	liege = "d_sjaelland"
 	holder = 6843
 }
+936.1.1 = {
+	holder = 261199
+	liege = d_skane
+}
 1051.1.1={
 	liege="k_denmark"
 	holder=102504 #Finn Arneson of Norway

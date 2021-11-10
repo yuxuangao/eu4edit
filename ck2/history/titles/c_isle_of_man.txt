@@ -54,7 +54,9 @@
 914.1.1={
 	holder=214912 # Ragnall ua Imar 
 }
-
+936.1.1 = {
+	holder = 214902
+}
 954.1.1={
 	holder = 214905 # Camman ua Olafr
 }

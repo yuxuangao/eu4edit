@@ -31,6 +31,10 @@
 	holder = 180236
 	liege = k_pechenegs
 }
+936.1.1 = {
+	holder = 146190
+	liege = k_khazaria
+}
 1066.1.1=
 {
 	liege=k_cuman

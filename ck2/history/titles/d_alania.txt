@@ -37,6 +37,10 @@
 	holder=183223
 	clear_tribute_suzerain = k_khazaria
 }
+936.1.1 = {
+	holder = 260992
+	liege = k_khazaria
+}
 969.1.1={
 	liege=0
 }

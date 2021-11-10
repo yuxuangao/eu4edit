@@ -70,6 +70,10 @@
 852.1.1={
 	holder = 163102
 }
+936.1.1 = {
+	liege = k_england
+	holder = 260528
+}
 1066.1.1={
 	liege="k_england"
 }

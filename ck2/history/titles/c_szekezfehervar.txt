@@ -27,12 +27,12 @@
 861.1.1={
 	holder=168581
 }
-1066.1.1=
-{
-  liege="k_hungary"
+936.1.1 = {
+	liege = d_pecs
+	holder = 261321
 }
-1066.1.1=
-{
+1066.1.1 = {
+	liege = k_hungary
 	holder=20360
 }
 1082.1.1=

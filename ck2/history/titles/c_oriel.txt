@@ -12,6 +12,9 @@
 850.1.1={
     holder=83794 #Congalach mac Finnachta
 }
+917.1.1 = {
+	holder = 260543
+}
 # 874-947 non-dynasts
 947.1.1={
 	holder=214915 # Egneach

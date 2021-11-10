@@ -27,11 +27,13 @@
 	liege = "d_york"
 	holder = 163112
 }
-875.1.1 = {
-	holder = 0
+936.1.1 = {
+	liege = d_northumberland
+	holder = 260525
 }
 1055.1.1={
 	holder=124 #Tostig Godwinson
+	liege = d_york
 }
 1066.1.1={
 	holder=5660 #Morcar

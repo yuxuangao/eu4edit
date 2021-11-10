@@ -23,11 +23,14 @@
 860.1.1={
 	holder=168067
 }
-896.1.1={
+936.1.1 = {
+	liege = e_bulgaria
+	holder = 260686
+}
+1066.1.1={
 	liege=0
 	holder=0
 }
-
 1171.1.1={
 	liege="k_cuman"
 	holder=228028	

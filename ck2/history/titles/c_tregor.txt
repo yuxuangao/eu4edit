@@ -87,7 +87,9 @@
 931.1.1={
 	liege=d_brittany
 }
-
+936.1.1={
+	holder=50002 #Alain II 'Barbe-Torte'
+}
 970.1.1={
 	holder=340 #Conan I
 }

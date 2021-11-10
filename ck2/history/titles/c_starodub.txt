@@ -11,6 +11,10 @@
 860.1.1={
 	holder = 6826
 }
+936.1.1 = {
+	holder = 260750
+	liege = d_novgorod-seversk
+}
 1024.1.2=
 {
 liege="d_chernigov"

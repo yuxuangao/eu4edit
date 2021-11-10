@@ -32,6 +32,10 @@
 862.1.1={
 	holder = 163123
 }
+936.1.1 = {
+	liege = d_galloway
+	holder = 260532
+}
 1066.1.1={
 	liege="d_lothian"
 }

@@ -30,10 +30,13 @@
 }
 920.1.1={
 	holder=184017
+	clear_tribute_suzerain = d_ghana
+}
+936.1.1 = {
+	liege = d_ghana
+	holder = 260872
 }
 960.1.1={
-	clear_tribute_suzerain = d_ghana
-	liege=d_ghana
 	holder=184018
 }
 980.1.1={

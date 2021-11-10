@@ -5,7 +5,10 @@
 840.1.1 = {
 	holder = 256043
 }
-
+936.1.1 = {
+	liege = d_wild_fields
+	holder = 260695
+}
 1066.1.1={
 	holder = 256089
 	liege = "d_kiev"

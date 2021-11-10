@@ -1,11 +1,15 @@
 640.1.1={
 	liege="e_byzantium"
+	de_jure_liege = "d_ragusa"
 }
 769.1.1 = {
 	holder = 260394
 }
 867.1.1 = {
 	holder = 260395
+}
+936.1.1. = {
+	holder = 260817
 }
 1066.1.1 = {
 	holder = 260396

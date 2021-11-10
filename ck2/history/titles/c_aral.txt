@@ -7,7 +7,10 @@
 	liege=d_turkestan
 	holder=258089
 }
-
+936.1.1 = {
+	holder = 260699
+	liege = k_turkestan
+}
 1066.1.1=
 {
 	liege=0

@@ -7,8 +7,13 @@
 860.1.1={
 	holder=145109
 }
+936.1.1 = {
+	holder = 250803
+	liege = d_aegean_islands
+}
 1060.1.1={
 	holder=1733
+	liege = d_abydos
 }
 1070.1.1={
 	holder=20514

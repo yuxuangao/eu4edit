@@ -6,8 +6,11 @@
 	liege = "k_bavaria"
 	holder = 260028 	# Placeholder
 }
-1066.1.1 = {
+936.1.1 = {
 	liege = d_osterreich
+	holder = 260666
+}
+1066.1.1 = {
 	holder = 260029		# Wernher von Zelking
 }
 1114.1.1 = {

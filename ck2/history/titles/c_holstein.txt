@@ -13,9 +13,13 @@
 860.1.1={
 	holder = 163113
 }
-1066.1.1=
-{
-holder=101517
+936.1.1 = {
+	holder = 1410
+	liege = d_mecklemburg
+}
+1066.1.1 = {
+	holder=101517
+	liege = d_slesvig
 }
 1080.4.17=
 {

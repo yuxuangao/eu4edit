@@ -946,19 +946,18 @@ SAXON_BLOOD = {
 	}
 	
 	happened = {
-		completely_controls = c_oldenburg
-		completely_controls = c_osnabruck
+		completely_controls = c_luneburg
+		completely_controls = c_braunschweig
+		completely_controls = c_verden
+		completely_controls = c_altmark
+		completely_controls = c_magdeburg
 		completely_controls = c_bremen
 		completely_controls = c_celle
-		completely_controls = c_braunschweig
+		completely_controls = c_osnabruck
+		completely_controls = c_oldenburg
+		completely_controls = c_minden
+		completely_controls = c_munster
 		completely_controls = c_gottingen
-		completely_controls = c_holstein
-		completely_controls = c_hamburg
-		completely_controls = c_luneburg
-		completely_controls = c_weimar
-		completely_controls = c_lubeck
-		completely_controls = c_anhalt
-		completely_controls = c_plauen
 	}
 }
 

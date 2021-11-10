@@ -13,6 +13,7 @@
 934.1.1=
 {
 	holder=167474 #Docibile Caetani
+	liege = e_byzantium
 }
 954.1.1=
 {
@@ -41,6 +42,7 @@
 1040.1.1=
 {
 	holder=167483 #Leone Caetani
+	liege = c_capua
 }
 1042.1.1=
 {

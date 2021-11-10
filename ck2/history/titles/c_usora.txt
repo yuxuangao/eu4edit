@@ -19,9 +19,9 @@
 892.1.1={
 	holder = 167868
 }
-1066.1.1=
-{
-liege="k_croatia"
+936.1.1 = {
+	liege="k_croatia"
+	holder = 260643
 }
 1066.1.1=
 {

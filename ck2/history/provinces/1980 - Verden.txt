@@ -21,3 +21,9 @@ religion = norse_pagan
 	b_ottersberg = temple
 	capital = b_rotenburg_verden
 }
+936.1.1 = {
+	capital = b_verden
+}
+1066.1.1 = {
+	capital = b_rotenburg_verden
+}

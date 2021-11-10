@@ -9,7 +9,9 @@
 864.1.1={
 	holder = 163157
 }
-
+890.1.1={
+	holder=188599 # Muhammad
+}
 1041.1.1={
 	liege="k_khiva"
 }

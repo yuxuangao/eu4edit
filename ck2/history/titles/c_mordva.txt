@@ -12,6 +12,9 @@
 	holder=258084
 	liege = d_burtas
 }
+936.1.1 = {
+	holder = 260698
+}
 1066.1.1=
 {
 holder=20629

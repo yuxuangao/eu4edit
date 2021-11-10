@@ -1,5 +1,6 @@
 536.1.1={
 	liege = "e_byzantium"
+	de_jure_liege = d_amalfi
 }
 751.1.1=
 {
@@ -137,6 +138,7 @@
 1052.1.1=
 {
 	holder=168466 #Giovanni III (again)
+	de_jure_liege = d_salerno
 }
 1069.1.1=
 {

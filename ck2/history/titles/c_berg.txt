@@ -10,8 +10,9 @@
 865.1.1={
 	holder = 163052
 }
-1066.1.1={
-	liege = "d_lower_lorraine"
+936.1.1 = {
+	liege = d_saxony
+	holder = 260592
 }
 1066.1.1={
 	holder=33175

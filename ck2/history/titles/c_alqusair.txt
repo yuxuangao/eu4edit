@@ -5,13 +5,15 @@
 	holder = 210022
 }
 866.1.1={
-	liege="k_egypt"
+	holder = 261299
 }
-866.1.1={
-	holder = 163115
+936.1.1 = {
+	holder = 155178
+	liege = d_aswan
 }
 996.10.13={
 	holder=3092
+	liege = k_egypt
 }
 1021.2.12={
 	holder=3094

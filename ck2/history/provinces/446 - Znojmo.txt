@@ -18,7 +18,7 @@ b_trebic = temple
 #b_louka = temple
 
 # Misc
-culture = bohemian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -35,5 +35,8 @@ religion = slavic_pagan
 907.1.1 = {
 	# VERY IMPORTANT: remove_settlement must always be scripted AFTER a 'capital' switch away from the same settlement
 	remove_settlement = b_pohansko 
+}
+1101.1.1 = { 
+	culture = bohemian
 }
 1277.1.1 = { b_trebic = city }

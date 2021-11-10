@@ -20,6 +20,9 @@
 {
 liege="d_franconia"
 }
+914.1.1 = {
+	holder = 260575
+}
 1066.1.1=
 {
 holder=1316

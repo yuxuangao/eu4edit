@@ -12,6 +12,10 @@
 	holder=6834
 	liege = d_pronsk
 }
+936.1.1 = {
+	holder = 260747
+	liege = d_novosil
+}
 987.1.2=
 {
 	holder=612

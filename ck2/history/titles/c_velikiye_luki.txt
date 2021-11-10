@@ -15,8 +15,13 @@
 	holder = 600
 	liege = d_novgorod
 }
+936.1.1 = {
+	liege = d_pskov
+	holder = 260720
+}
 945.1.2={
 	holder = 602
+	liege = d_novgorod
 }
 970.1.2={
 	holder = 608
@@ -39,7 +44,6 @@
 }
 1088.1.2={
 	holder=222574
-	liege = d_pskov
 }
 1095.1.2={
 	holder=656

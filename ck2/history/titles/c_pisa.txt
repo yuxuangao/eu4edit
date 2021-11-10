@@ -16,6 +16,9 @@
 846.1.1={
 	holder = 168364
 }
+936.1.1 = {
+	holder = 260624
+}
 1060.1.1={
 	holder=180023 #Tedice III della Gheradesca
 	liege=d_pisa

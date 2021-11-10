@@ -25,5 +25,19 @@ religion = tengri_pagan
 	b_mako = city
 	b_szeged = temple
 }
-890.1.1 = { religion = catholic }
-950.1.1 = { culture = hungarian }
+890.1.1 = { 
+	religion = catholic
+}
+895.1.1 = {
+	remove_settlement = b_mako
+	b_csanad = tribal
+}
+930.1.1 = { 
+	culture = hungarian 
+	religion = tengri_pagan
+}
+950.1.1 = {
+	religion = catholic
+	b_mako = city
+	b_csanad = castle
+}

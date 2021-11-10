@@ -17,11 +17,13 @@
 825.1.1={
 	holder=163154 # Ahmad Samanid
 }
-864.1.1={
-	liege="d_khiva"
+866.1.1={
+	liege=d_kabul
+	holder=1059734
 }
-864.1.1={
-	holder = 163099 # Nasr Samanid
+936.1.1 = {
+	holder = 261036
+	liege = d_balkh
 }
 977.1.1 = {
 	liege="d_zabulistan"

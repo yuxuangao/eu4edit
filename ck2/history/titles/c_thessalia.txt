@@ -12,6 +12,10 @@
 865.1.1={
 	holder=145186
 }
+936.1.1 = {
+	liege = d_athens
+	holder = 260681
+}
 1060.1.1={
 	liege="d_athens"
 	holder=41308

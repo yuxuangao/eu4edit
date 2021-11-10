@@ -13,6 +13,9 @@
 860.1.1={
 	holder=168008 
 }
+936.1.1 = {
+	holder = 260627
+}
 1066.1.1={
 	holder=20314 # Manfredo I Doria
 	liege = d_genoa

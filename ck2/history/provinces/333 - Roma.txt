@@ -18,8 +18,20 @@ b_tivoli = castle
 culture = italian
 religion = catholic
 
-# History
+# History (Lateran Palace)
+505.1.1 = {
+	build_wonder = wonder_apostolic_palace
+	set_wonder_stage = 1
+}
 
+800.1.1 = { #Leo III renovations of Lateran Palace
+	set_wonder_stage = 2
+}
+
+1200.1.1 = { #Innocent III renovations of Lateran Palace
+	set_wonder_stage = 3
+}
+# History
 867.1.1 = { 
 	b_tusculum = ca_keep_1
 	b_tusculum = ca_stable_1

@@ -16,9 +16,11 @@
 	liege="d_brittany"
 	holder = 163105 # Solomon of Brittany takes it
 }
-
+936.1.1 = {
+	holder = 260556
+	liege = d_normandy
+}
 1056.1.1={
-	liege="d_normandy"
 	holder=150 #Robert de Conteville
 }
 

@@ -130,6 +130,9 @@
 862.1.1={
 	holder = 163103 # Ælle II
 }
+936.1.1 = {
+	holder = 260539
+}
 1066.1.1={
 	holder=191 #Osulf of Bamburgh
 }

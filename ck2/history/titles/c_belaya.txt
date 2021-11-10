@@ -17,11 +17,12 @@
 	#holder=6858
 	holder = 258083
 }
-
-1066.1.1=
-{
-	liege="d_bulgar"
-holder=258096
+936.1.1 = {
+	holder = 260705
+	liege = d_bulgar
+}
+1066.1.1 = {
+	holder=258096
 }
 1120.1.1=
 {

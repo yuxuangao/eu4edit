@@ -45,10 +45,9 @@
 895.1.1={
 	holder=0
 }
-
-1063.12.1=
-{
-liege="d_transylvania"
+936.1.1 = {
+	liege = d_transylvania
+	holder = 260660
 }
 1063.12.1=
 {

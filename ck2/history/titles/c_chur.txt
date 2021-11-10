@@ -25,6 +25,10 @@
 854.1.1={
 	liege = k_germany
 }
+914.1.1 = {
+	liege = d_swabia
+	holder = 260579
+}
 1066.1.1=
 {
 liege="d_swabia"

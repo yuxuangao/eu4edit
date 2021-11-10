@@ -20,6 +20,9 @@
 884.12.12={
 	liege="d_aquitaine"
 }
+936.1.1 = {
+	holder = 260601
+}
 1064.1.1={
 	holder = 306 #Robert II d'Auvergne
 }

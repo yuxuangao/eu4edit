@@ -7,10 +7,14 @@
 	liege=d_syr_darya
 	holder=74029
 }
-
+936.1.1 = {
+	holder = 260699
+	liege = k_turkestan
+}
 1066.1.1=
 {
-holder=93089
+	holder=93089
+	liege = d_syr_darya
 }
 1077.1.1=
 {

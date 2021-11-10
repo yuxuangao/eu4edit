@@ -13,6 +13,11 @@
 
 # Independence for most of the 900s under b Ahmad family and Kharijites
 
+936.1.1 = {
+	holder = 261113
+	liege = 0
+}
+
 1010.1.1={
 	liege = k_afghanistan
 	holder = 188544 # Ma'dan Ma'danid

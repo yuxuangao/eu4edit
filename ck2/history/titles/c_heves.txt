@@ -32,13 +32,13 @@
 909.1.1={
 	holder=0
 }
-
-1066.1.1=
-{
-liege="k_hungary"
+936.1.1 = {
+	holder = 260661
+	liege = d_nyitra
 }
-1066.1.1={
-holder=476
+1066.1.1 = {
+	liege="k_hungary"
+	holder=476
 }
 1074.1.1={
 holder=472

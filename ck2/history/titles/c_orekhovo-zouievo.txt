@@ -12,6 +12,9 @@
 	holder=159710
 	liege = d_ryazan
 }
+936.1.1 = {
+	holder = 260740
+}
 987.1.2=
 {
 holder=612

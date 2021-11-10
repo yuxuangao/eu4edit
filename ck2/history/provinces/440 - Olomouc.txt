@@ -16,7 +16,7 @@ b_velehrad = temple
 #b_zabreh = city
 
 # Misc
-culture = bohemian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -32,4 +32,7 @@ religion = slavic_pagan
 	remove_settlement = b_velehrad 
 	b_svaty_kopecek = temple
 	b_prerov = castle
+}
+1055.1.1 = {
+	culture = bohemian
 }

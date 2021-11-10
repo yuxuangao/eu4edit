@@ -22,9 +22,13 @@
 864.1.1={
 	holder = 159506
 }
-1051.1.1=
-{
-holder=32964
+936.1.1 = {
+	holder = 168280
+	liege = d_marrakech
+}
+1051.1.1 = {
+	holder=32964
+	liege = k_mauretania
 }
 1055.1.1=
 {
@@ -34,7 +38,7 @@ holder=32958
 {
 holder=3853
 }
-1061.1.1=
+1071.1.1=
 {
 holder=32965
 }

@@ -1,8 +1,5 @@
-720.1.1={
-	liege="d_bohemia"
-	holder = 168345
-}
 738.1.1={
+	liege=d_meissen
 	holder = 146174
 }
 760.1.1={
@@ -18,12 +15,15 @@
 	holder = 168349
 }
 830.1.1={
-	liege=d_meissen
 	holder=0
 }
 
 857.1.1={
 	holder=184007
+}
+936.1.1 = {
+	holder = 168562
+	liege = d_brandenburg
 }
 1062.1.1=
 {

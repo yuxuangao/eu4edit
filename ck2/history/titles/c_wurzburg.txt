@@ -47,6 +47,9 @@
 899.8.12={
 	holder = 7949 #Lothair
 }
+936.1.1 = {
+	holder = 7953
+}
 1066.1.1=
 {
 liege="d_franconia"

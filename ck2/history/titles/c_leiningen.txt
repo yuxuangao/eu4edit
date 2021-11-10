@@ -22,6 +22,9 @@ liege=k_germany
 880.1.1={
 	holder = 7961
 }
+936.1.1 = {
+	holder = 7953
+}
 983.1.1={
 	holder = 1310
 }

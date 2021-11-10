@@ -8,8 +8,16 @@
 780.1.1={
 	holder=0
 } 
-
+936.1.1 = {
+	holder = 261048
+	liege = 0
+	set_tribute_suzerain = {
+		who = k_khiva
+		type = permanent
+	}
+}
 1066.1.1={
+	clear_tribute_suzerain = k_khiva
 	liege="k_persia"
 }
 1066.1.1={

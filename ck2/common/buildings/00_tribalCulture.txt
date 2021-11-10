@@ -4697,7 +4697,7 @@ tribal = {
 		potential = {
 			OR = {
 				culture = arberian
-				has_building = ca_culture_arberian_1
+				has_building = tb_culture_arberian_1
 			}
 		}
 		is_active_trigger = {
@@ -4726,8 +4726,8 @@ tribal = {
 		potential = {
 			OR = {
 				culture = arberian
-				has_building = ca_culture_arberian_1
-				has_building = ca_culture_arberian_2
+				has_building = tb_culture_arberian_1
+				has_building = tb_culture_arberian_2
 			}
 		}
 		is_active_trigger = {
@@ -4758,9 +4758,9 @@ tribal = {
 		potential = {
 			OR = {
 				culture = arberian
-				has_building = ca_culture_arberian_1
-				has_building = ca_culture_arberian_2
-				has_building = ca_culture_arberian_3
+				has_building = tb_culture_arberian_1
+				has_building = tb_culture_arberian_2
+				has_building = tb_culture_arberian_3
 			}
 		}
 		is_active_trigger = {
@@ -4789,10 +4789,10 @@ tribal = {
 		potential = {
 			OR = {
 				culture = arberian
-				has_building = ca_culture_arberian_1
-				has_building = ca_culture_arberian_2
-				has_building = ca_culture_arberian_3
-				has_building = ca_culture_arberian_4
+				has_building = tb_culture_arberian_1
+				has_building = tb_culture_arberian_2
+				has_building = tb_culture_arberian_3
+				has_building = tb_culture_arberian_4
 			}
 		}
 		is_active_trigger = {
@@ -4815,6 +4815,140 @@ tribal = {
 		ai_creation_factor = 98
 		
 		extra_tech_building_start = 0.8
+
+		convert_to_castle = ca_culture_arberian_2
+	}
+
+	# Sardinian Birrudo
+	tb_culture_sardinian_1 = {
+		desc = ca_culture_sardinian_1_desc
+		potential = {
+			OR = {
+				culture = sardinian
+				has_building = tb_culture_sardinian_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		trigger = {
+			TECH_CASTLE_CONSTRUCTION = 0
+			ROOT = {
+				culture = sardinian
+			}
+		}
+
+		prestige_cost = 100
+		build_time = 365
+		pikemen = 10
+		archers = 10
+		pikemen_defensive = 0.05
+		archers_defensive = 0.05
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	tb_culture_sardinian_2 = {
+		desc = ca_culture_sardinian_1_desc
+		potential = {
+			OR = {
+				culture = sardinian
+				has_building = tb_culture_sardinian_1
+				has_building = tb_culture_sardinian_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		trigger = {
+			TECH_CASTLE_CONSTRUCTION = 0
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		upgrades_from = tb_culture_sardinian_1
+		prestige_cost = 200
+		build_time = 547
+		pikemen = 15
+		archers = 15
+		pikemen_defensive = 0.05
+		archers_defensive = 0.05
+		ai_creation_factor = 100
+
+		convert_to_castle = ca_culture_sardinian_1
+		
+		extra_tech_building_start = 0.8
+	}
+	tb_culture_sardinian_3 = {
+		desc = ca_culture_sardinian_1_desc
+		potential = {
+			OR = {
+				culture = sardinian
+				has_building = tb_culture_sardinian_1
+				has_building = tb_culture_sardinian_2
+				has_building = tb_culture_sardinian_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		trigger = {
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		upgrades_from = tb_culture_sardinian_2
+		prestige_cost = 300
+		build_time = 730
+		pikemen = 15
+		archers = 20
+		pikemen_defensive = 0.05
+		archers_defensive = 0.05
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	tb_culture_sardinian_4 = {
+		desc = ca_culture_sardinian_1_desc
+		potential = {
+			OR = {
+				culture = sardinian
+				has_building = tb_culture_sardinian_1
+				has_building = tb_culture_sardinian_2
+				has_building = tb_culture_sardinian_3
+				has_building = tb_culture_sardinian_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		trigger = {	
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				culture = sardinian
+			}
+		}
+		upgrades_from = tb_culture_sardinian_3
+		prestige_cost = 400
+		build_time = 1095
+		pikemen = 20
+		archers = 20
+		pikemen_defensive = 0.05
+		archers_defensive = 0.05
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+
+		convert_to_castle = ca_culture_sardinian_2
 	}
 }
 

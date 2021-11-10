@@ -14,10 +14,11 @@ b_tortoli = city
 #b_ballao = castle
 
 # Misc
-culture = italian #sardinian
-religion = catholic
+culture = sardinian
+religion = orthodox
 terrain = hills
 
 # History
+1054.1.1 = { religion = catholic }
 1066.1.1 = { trade_post = b_fieschi }
 1258.1.1 = { trade_post = b_della_gherardesca }

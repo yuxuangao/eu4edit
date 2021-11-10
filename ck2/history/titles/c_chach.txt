@@ -7,9 +7,13 @@
 	holder = 163099
 	liege = k_khiva
 }
-
+936.1.1 = {
+	holder = 188838
+	liege = d_zhetysu
+}
 1052.1.1={
 	holder=3014
+	liege = k_khiva
 }
 1068.1.1=
 {

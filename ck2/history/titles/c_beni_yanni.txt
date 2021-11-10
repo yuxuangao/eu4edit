@@ -14,9 +14,14 @@
 877.1.1={
 	liege="d_kabylia"
 }
+936.1.1 = {
+	holder = 260862
+	liege = d_tlemcen
+}
 1062.1.1=
 {
 	holder=20834
+	liege = d_kabylia
 }
 1088.1.1=
 {

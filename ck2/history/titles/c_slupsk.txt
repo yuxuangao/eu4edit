@@ -11,10 +11,13 @@
 867.1.1={
 holder=168588
 }
-
-1066.1.1=
-{
-holder=30522 #Siemomysl 
+936.1.1 = {
+	holder = 260571
+	liege = d_pomeralia
+}
+1066.1.1 = {
+	holder=30522 #Siemomysl 
+	liege = d_pomerania
 }
 1068.1.1=
 {

@@ -4,6 +4,9 @@
 title = c_friesach
 b_wolfsberg = tribal
 
+#terrain
+terrain=marsh
+
 # Settlements 
 max_settlements = 4
 

@@ -98,6 +98,9 @@
 858.1.2={
 	holder = 6024
 }
+936.1.1 = {
+	holder = 974
+}
 1005.7.1={
 	holder=5998 #Findláech mac Ruaidri
 }

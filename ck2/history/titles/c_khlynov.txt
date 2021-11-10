@@ -14,10 +14,9 @@
 862.1.1 = {
 	holder=6855
 }
-
-1066.1.1=
-{
-liege="d_bulgar"
+936.1.1 = {
+	holder = 260707
+	liege = d_bulgar
 }
 1066.1.1=
 {

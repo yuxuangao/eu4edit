@@ -1,13 +1,16 @@
 769.1.1 = {
-	liege = "d_bohemia"
+	liege = "d_moravia"
 	holder = 260041		# Placeholder
 }
 867.1.1 = {
 	liege = "k_moravia"
 	holder = 260042		# Placeholder
 }
+936.1.1 = {
+	liege = d_osterreich
+	holder = 260667
+}
 1066.1.1 = {
-	liege = "d_osterreich"
 	holder = 260043		# Azzo von Gobatsburg
 }
 1100.1.1 = {

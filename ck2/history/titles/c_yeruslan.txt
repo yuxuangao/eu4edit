@@ -31,6 +31,10 @@
 {
 holder=180174
 }
+936.1.1 = {
+	liege = k_khazaria
+	holder = 146190
+}
 1060.1.1=
 {
 holder=806

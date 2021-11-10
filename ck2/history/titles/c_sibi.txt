@@ -14,7 +14,10 @@
 	holder = 178015
 	liege = d_bhakkar
 }
-
+936.1.1 = {
+	holder = 261105
+	liege = k_sindh
+}
 ## To be filled
 
 1011.1.1= {

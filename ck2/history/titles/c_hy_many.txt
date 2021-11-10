@@ -4,8 +4,13 @@
 867.1.1 = {
 	holder = 260485
 }
+909.1.1 = {
+	holder = 260545
+	liege = d_connacht
+}
 1066.1.1 = {
 	holder = 260486
+	liege = 0
 }
 1074.1.1 = {
 	holder = 260487

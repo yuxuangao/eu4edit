@@ -19,6 +19,10 @@ liege="k_bulgaria"
 {
 holder=168078
 }
+936.1.1 = {
+	liege = e_bulgaria
+	holder = 260678
+}
 1066.1.1 = {
 	liege = e_byzantium
 	vice_royalty = yes

@@ -12,6 +12,9 @@
 862.1.1={
 	holder = 163162
 }
+936.1.1 = {
+	holder = 261131
+}
 1051.1.1={
 	holder = 248555 # Kakuyids granted this land
 }

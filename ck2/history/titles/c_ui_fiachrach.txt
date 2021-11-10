@@ -8,9 +8,12 @@
 867.1.1 = {
 	holder = 260501
 }
+909.1.1 = {
+	holder = 260544
+	liege = d_connacht
+}
 1066.1.1 = {
 	holder = 260502
-	liege = d_connacht
 }
 1096.1.1 = {
 	holder = 260503

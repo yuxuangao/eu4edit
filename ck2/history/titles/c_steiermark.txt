@@ -6,6 +6,13 @@
 	liege = "k_bavaria"
 	holder = 260026		# Placeholder
 }
+891.1.1 = {
+	holder = 260589
+	liege = d_bavaria
+}
+936.1.1 = {
+	liege = d_osterreich
+}
 1066.1.1 = {
 	liege = "d_styria"
 	holder = 260016		# Richer von Steyr

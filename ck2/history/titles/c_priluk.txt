@@ -17,8 +17,9 @@
 896.1.1={
 	liege = 0
 }
-1024.1.2={
-	liege="d_pereyaslavl"
+936.1.1 = {
+	liege = d_pereyaslavl
+	holder = 260697
 }
 1024.1.2={
 	holder = 618

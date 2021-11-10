@@ -9,9 +9,9 @@ liege="d_ohrid"
 865.1.1={
 	holder=168078
 }
-989.1.1=
-{
-liege="d_dyrrachion"
+936.1.1 = {
+	holder = 260675
+	liege="e_bulgaria"
 }
 1005.1.1=
 {

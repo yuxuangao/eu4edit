@@ -1,15 +1,22 @@
 767.1.1=
 {
 holder=210034
+de_jure_liege = k_egypt
 liege="k_africa"
 }
 788.1.1=
 {
 holder=0
 }
-1066.1.1=
-{
-holder=155199
+936.1.1 = {
+	holder = 260925
+	liege = 0
+	set_tribute_suzerain = { who = k_africa type = permanent }
+}
+1066.1.1 = {
+	clear_tribute_suzerain = k_africa
+	liege = k_africa
+	holder=155199
 }
 1072.1.1=
 {

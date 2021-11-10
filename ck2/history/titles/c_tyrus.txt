@@ -26,9 +26,14 @@
 877.1.1={
 	liege = 0
 }
+936.1.1 = {
+	holder = 260846
+	liege = d_galilee
+}
 1066.1.1=
 {
 	holder=20773
+	liege = 0
 }
 1089.1.1=
 {

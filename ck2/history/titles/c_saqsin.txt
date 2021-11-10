@@ -45,6 +45,10 @@
 	holder = 256058
 	#liege = d_mordvins
 }
+936.1.1 = {
+	holder = 260704
+	liege = d_caspian_steppe
+}
 1066.1.1={
 	holder=20663
 }

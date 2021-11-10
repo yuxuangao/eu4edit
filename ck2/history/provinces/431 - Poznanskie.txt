@@ -3,6 +3,9 @@
 # County Title
 title = c_poznanskie
 
+# Terrain
+terrain = forest
+
 # Settlements
 max_settlements = 6
 b_poznan = tribal

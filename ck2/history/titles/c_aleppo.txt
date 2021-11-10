@@ -12,6 +12,9 @@
 	liege="d_aleppo"
 	holder=159738
 }
+936.1.1 = {
+	holder = 260826
+}
 1066.1.1=
 {
 	holder=20743

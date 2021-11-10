@@ -11,8 +11,12 @@
 866.1.1={
 	holder = 163115
 }
+936.1.1 = {
+	holder = 260819
+}
 969.1.1 = {
 	adjective = c_cairo_adj
+	set_global_flag = established_cairo
 }
 996.10.13={
 	holder=3092

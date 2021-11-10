@@ -16,6 +16,10 @@
 {
 holder=180174
 }
+936.1.1 = {
+	holder = 125602
+	liege = d_bulgar
+}
 1060.1.1=
 {
 holder=806

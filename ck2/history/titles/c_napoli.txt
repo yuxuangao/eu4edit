@@ -88,6 +88,7 @@
 }
 915.1.1={
 	holder=163086
+	liege=e_byzantium
 }
 919.1.1={
 	holder=163085
@@ -109,6 +110,7 @@
 }
 1036.1.1={
 	holder=30820
+	liege = 0
 }
 1053.1.1={
 	holder=20498 #Sergios V of Napoli

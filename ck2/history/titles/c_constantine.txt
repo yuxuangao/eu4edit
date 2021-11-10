@@ -5,9 +5,13 @@
 864.1.1={	
 	holder = 6883
 }
-1066.1.1=
-{
-holder=155173
+936.1.1 = {
+	holder = 260859
+	liege = d_tunis
+}
+1066.1.1 = {
+	holder = 155173
+	liege = d_kabylia
 }
 1080.1.1=
 {

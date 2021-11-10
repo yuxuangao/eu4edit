@@ -20,6 +20,9 @@
 884.12.12={
 	liege="d_aquitaine"
 }
+924.1.1 = {
+	holder = 330 #Raymond-Pons de Toulouse
+}
 1064.1.1={
 	holder = 306 #Robert II d'Auvergne
 }

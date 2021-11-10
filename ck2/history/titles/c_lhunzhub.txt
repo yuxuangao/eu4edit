@@ -13,6 +13,9 @@
 	liege="d_nagchu"
 	holder = 243012 # Fictional
 }
+936.1.1 = {
+	holder = 261092
+}
 
 1060.1.1 = {
 	liege=0

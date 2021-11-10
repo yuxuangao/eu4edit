@@ -35,8 +35,13 @@
 922.1.1={
 	holder=7919
 }
+928.1.1 = {
+	holder = 260620
+	liege = d_benevento
+}
 943.1.1={
 	holder=7924
+	liege = d_spoleto
 }
 989.1.1={
 	holder=7925

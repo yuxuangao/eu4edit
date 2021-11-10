@@ -82,6 +82,8 @@
 930.1.1=
 {
 	holder=168421 #Leone I
+	liege = e_byzantium
+	de_jure_liege = k_sicily
 }
 931.6.25=
 {
@@ -149,6 +151,7 @@
 }
 1060.1.1={
 	holder=0
+	de_jure_liege = 0
 }
 #1069.1.1=
 #{

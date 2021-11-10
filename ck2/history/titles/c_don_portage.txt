@@ -38,13 +38,12 @@
 	holder = 256058
 	#liege = d_mordvins
 }
-1060.1.1=
-{
-liege="d_sarkel"
+936.1.1 = {
+	holder = 260703
+	liege = d_sarkel
 }
-1060.1.1=
-{
-holder=806
+1060.1.1 = {
+	holder=806
 }
 1110.1.1=
 {

@@ -9,7 +9,10 @@
 867.1.1={
 	holder = 245003
 }
-
+936.1.1 = {
+	liege = k_burgundy
+	holder = 260598
+}
 #House of Ivrée
 986.1.1 = {
 	liege="d_burgundy"

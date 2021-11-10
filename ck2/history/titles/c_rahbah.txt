@@ -23,13 +23,13 @@
 877.1.1={
 	liege = 0
 }
-1066.1.1=
-{
-liege="d_mosul"
+936.1.1 = {
+	holder = 261008
+	liege = d_baghdad
 }
-1066.1.1=
-{
-holder=20728
+1066.1.1 = {
+	liege = d_mosul
+	holder=20728
 }
 1089.1.1=
 {

@@ -10,6 +10,9 @@
 867.1.1={
 holder=184003
 }
+936.1.1 = {
+	holder = 260569
+}
 1043.1.1=
 {
 liege="d_mecklemburg"

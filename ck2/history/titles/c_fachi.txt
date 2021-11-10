@@ -12,6 +12,9 @@
 870.1.1= {
 	holder=248803
 }
+936.1.1 = {
+	holder = 260870
+}
 
 # Islam spreads to area
 1040.1.1= {

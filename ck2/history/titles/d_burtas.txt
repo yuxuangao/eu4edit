@@ -11,3 +11,7 @@
 	clear_tribute_suzerain = k_khazaria
 	holder = 0
 }
+936.1.1 = {
+	holder = 260698
+	historical_nomad = yes
+}

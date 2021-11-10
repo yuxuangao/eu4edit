@@ -17,9 +17,9 @@
 #884.1.1={
 #	holder =  # Abdullah
 #}
-#913.1.1={
-#	holder =  # Umar II
-#}
+913.1.1={
+	holder = 261107 # Umar II
+}
 #943.1.1={
 #	holder =  # Muhammad
 #}

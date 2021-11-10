@@ -13,6 +13,15 @@
 	holder = 163099
 	clear_tribute_suzerain = e_arabia
 }
+907.1.1 = {
+	holder = 261016
+}
+914.1.1 = {
+	holder = 261017
+}
+943.1.1 = {
+	holder = 261018
+}
 1137.1.1={
 	liege=0 # Kara Khitan expansion
 	holder = 188905 # Yelü-Dashi

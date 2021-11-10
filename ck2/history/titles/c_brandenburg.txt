@@ -11,9 +11,6 @@
 920.1.1={
 	holder=168554
 }
-929.1.1={
-	liege=0
-}
 960.1.1={
 	liege=d_brandenburg
 	holder=168555

@@ -30,12 +30,10 @@ terrain = arctic
 	culture = norse
 	religion = norse_pagan
 }
-900.1.1 = {
+1000.1.1 = {
 	b_reykjavik = castle
 	b_reykjavik = ca_shipyard_1
 	b_alftanes = city
-}
-1000.1.1 = {
 	culture = norwegian
 	religion = catholic
 }

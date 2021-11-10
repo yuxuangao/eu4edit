@@ -52,9 +52,10 @@
 #920.1.1={
 #	holder =  # Mohammed bin Yazid
 #}
-#930.1.1={
-#	holder =  # Al-Hakm bin Al-Milaa Al-Bahri
-#}
+930.1.1={
+	holder = 260981 # Al-Hakm bin Al-Milaa Al-Bahri
+	liege = 0
+}
 #939.1.1={
 #	holder =  # Said bin Abdullah
 #}
@@ -73,6 +74,7 @@
 
 1154.1.1={
 	holder = 144145
+	liege = e_arabia
 }
 1161.1.1={
 	holder = 144560

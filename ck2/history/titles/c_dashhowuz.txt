@@ -9,9 +9,13 @@
 864.1.1={
 	holder = 163099
 }
-
+890.1.1={
+	holder=188599 # Muhammad
+	liege = d_khiva
+}
 1052.1.1={
 	holder=3014
+	liege = d_samarkand
 }
 1068.1.1=
 {

@@ -10,6 +10,9 @@
 	liege = d_zabulistan
 	holder = 6910
 }
+936.1.1 = {
+	holder = 261023
+}
 977.1.1 = {
 	holder = 144123
 }

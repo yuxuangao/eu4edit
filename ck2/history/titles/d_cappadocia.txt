@@ -8,6 +8,9 @@
 867.1.1={
 	holder=145110
 }
+936.1.1 = {
+	holder = 250798
+}
 1066.1.1 = {
 	holder = 0
 	vice_royalty = no

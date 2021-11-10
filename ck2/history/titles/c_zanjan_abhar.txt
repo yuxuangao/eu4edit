@@ -13,6 +13,9 @@
 	liege="d_mazandaran"
 	holder = 248695 # under Pro-Alid rebels at this time
 }
+936.1.1 ={
+	holder = 261053
+}
 955.1.1={
 	liege=d_jibal
 }

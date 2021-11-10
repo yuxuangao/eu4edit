@@ -18,11 +18,11 @@ b_hvar = temple
 
 # Misc
 culture = dalmatian
-religion = orthodox
+religion = catholic
 
 # History
-800.1.1 = {
-	religion = catholic
+769.1.1 = {
+	capital = b_split
 }
 1066.1.1 = { 
 	culture = croatian

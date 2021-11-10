@@ -23,10 +23,13 @@
 890.1.1={
 	holder=74046
 }
-
-1066.1.1=
-{
-holder=20366
+936.1.1 = {
+	holder = 260661
+	liege = d_nyitra
+}
+1066.1.1 = {
+	liege = d_ungvar
+	holder=20366
 }
 1080.1.1=
 {

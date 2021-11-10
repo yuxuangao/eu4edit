@@ -18,6 +18,10 @@ liege="d_vidin"
 {
 holder=70383
 }
+936.1.1 = {
+	liege = d_oltenia
+	holder = 260685
+}
 1060.1.1=
 {
 liege="d_vidin"

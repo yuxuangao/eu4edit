@@ -8,11 +8,14 @@
 {
 holder=167722
 }
-
-
+936.1.1 = {
+	holder = 260559
+	liege = d_norrland
+}
 1066.1.1=
 {
 holder=20014
+	liege = 0
 }
 1070.1.1=
 {

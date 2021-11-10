@@ -14,9 +14,9 @@
 877.1.1={
 	liege=0
 }
-1060.1.1=
-{
-liege="d_tlemcen"
+936.1.1 = {
+	holder = 260863
+	liege = d_tlemcen
 }
 1060.1.1=
 {

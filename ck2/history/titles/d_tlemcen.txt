@@ -6,9 +6,13 @@ holder=210032
 {
 holder=0
 }
-1060.1.1=
-{
-holder=155018
+936.1.1 = {
+	holder = 260861
+	liege = k_africa
+}
+1060.1.1 = {
+	holder=155018
+	liege = 0
 }
 1082.1.1=
 {

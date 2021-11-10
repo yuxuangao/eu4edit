@@ -15,8 +15,13 @@
 	holder = 256057
 	liege = d_novgorod-seversk
 }
-1024.1.2={
-holder = 618
+936.1.1 = {
+	liege = d_novosil
+	holder = 260748
+}
+1024.1.2 = {
+	liege = d_novgorod-seversk
+	holder = 618
 }
 1036.1.2=
 {

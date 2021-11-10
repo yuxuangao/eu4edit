@@ -32,6 +32,9 @@
 893.1.1={
 	holder = 7563
 }
+905.1.1={
+	holder=138164 #Centule II de Béarn
+}
 955.1.1={
 	holder = 163061
 }

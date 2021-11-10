@@ -5,7 +5,13 @@
 840.1.1 = {
 	holder = 256043
 }
-
+936.1.1 = {
+	liege = e_bulgaria
+	holder = 260693
+}
+937.1.1 = {
+	liege = 0
+}
 # Pechenegs
 1058.1.1=
 {

@@ -13,6 +13,9 @@
 867.1.4={
 	holder = 167925
 }
+925.8.27 ={
+	holder = 168240  #Artaud I de Forez
+}
 1032.1.1={
 	liege="d_burgundy"
 }

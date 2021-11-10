@@ -24,7 +24,7 @@ religion = norse_pagan
 
 # History
 800.1.1 = {
-	b_nasborg = tb_shipyard_1
+	b_uttersberg = tb_shipyard_1
 }
 1000.1.1 = {
 	b_uttersberg = castle

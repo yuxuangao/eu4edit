@@ -15,6 +15,9 @@ holder=145972
 {
 holder=183506
 }
+936.1.1 = {
+	holder = 260896
+}
 1059.1.1=
 {
 liege="k_abyssinia"

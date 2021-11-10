@@ -11,9 +11,13 @@
 867.1.1={
 holder=168589
 }
-
+936.1.1 = {
+	holder = 260571
+	liege = d_pomeralia
+}
 1066.1.1={
 	holder=30522
+	liege = d_pommerania
 }
 1068.1.1={	
 	holder=30523 

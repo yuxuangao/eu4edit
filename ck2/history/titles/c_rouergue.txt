@@ -16,6 +16,9 @@
 865.4.16 = {
 	holder = 127007 #Bernard de Toulouse
 }
+924.1.1 = {
+	holder = 330 #Raymond-Pons de Toulouse
+}
 1066.1.1=
 {
 	holder = 336 #Guillaume IV de Toulouse

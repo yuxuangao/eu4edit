@@ -11,6 +11,9 @@
 	liege=d_apulia
 	holder=163094
 }
+936.1.1 = {
+	holder = 200308
+}
 1042.1.1={
 	liege=d_apulia
 	holder=1122 #William I de Hauteville

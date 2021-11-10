@@ -69,6 +69,13 @@
 860.1.1={
 	holder=168288
 }
+927.5.27={
+	holder=714 #Petar I
+}
+936.1.1={
+	holder=70381
+	liege="e_bulgaria"
+}
 1066.1.1=
 {
 liege="d_turnovo"

@@ -4,6 +4,10 @@
 867.1.1 = {
 	holder = 260114
 }
+936.1.1 = {
+	holder = 260778
+	liege = d_zavarot
+}
 1066.1.1 = {
 	holder = 260115
 }

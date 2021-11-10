@@ -3,11 +3,16 @@
 }
 760.1.1={
 	holder=145850
+	liege = d_ragusa
 }
 857.1.1={
 	holder=145199
 }
+936.1.1 = {
+	holder = 261332
+}
 1066.1.1={
+	liege = d_croatia
 	holder=8622
 }
 1075.1.1={

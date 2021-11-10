@@ -27,8 +27,19 @@ religion = tengri_pagan
 	b_adony = temple
 }
 856.1.1 = {
-	culture = carantanian
+	culture = slovieni
 	religion = catholic 
 }
-950.1.1 = { culture = hungarian }
-
+895.1.1 = {
+	remove_settlement = b_mor
+	b_sarbogard = tribal
+}
+930.1.1 = { 
+	culture = hungarian 
+	religion = tengri_pagan
+}
+950.1.1 = {
+	religion = catholic
+	b_sarbogard = castle
+	b_mor = city
+}

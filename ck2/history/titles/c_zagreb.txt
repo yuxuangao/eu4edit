@@ -27,6 +27,10 @@ holder=168298
 {
 holder=168299
 }
+936.1.1 = {
+	liege = k_croatia
+	holder=8606
+}
 1066.1.1=
 {
 liege="d_slavonia"

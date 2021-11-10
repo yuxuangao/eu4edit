@@ -19,8 +19,13 @@
 899.1.1={
 	holder = 248309
 }
+915.1.1={
+	liege=k_khiva
+	holder=248003
+}
 1030.1.1={
 	holder = 248023
+	liege = d_khuttal
 }
 1067.1.1={
 	holder=248024

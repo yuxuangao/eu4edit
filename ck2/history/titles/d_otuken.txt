@@ -8,9 +8,14 @@
 	liege = k_mongolia
 	holder = 217169
 }
+936.1.1 = {
+	holder = 261078
+	liege = k_liao
+}
 # Liao Dynasty
 1040.1.1 = {
 	holder = 194332
+	liege = k_mongolia
 }
 1055.8.28 = {
 	holder = 194333

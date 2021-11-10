@@ -18,8 +18,10 @@
 }
 922.1.19={
 	holder = 248693
+	liege = d_tabriz
 }
 967.12.12={
+	liege = d_mazandaran
 	holder =166992
 }
 977.1.1={

@@ -24,9 +24,11 @@ terrain = hills
 848.1.1={
 	culture = scottish
 }
+936.1.1 = {
+	culture = norse
+}
 1030.1.1= {
 	b_thurso = castle
-	culture = norse
 }
 1066.1.1= { culture = norwegian }
 1134.1.1= { culture = scottish }

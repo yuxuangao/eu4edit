@@ -13,8 +13,11 @@
 	vice_royalty = no
 	holder=1700
 }
-1064.1.1 = {
+936.1.1 = {
+	holder = 145158
 	vice_royalty = yes
+}
+1064.1.1 = {
 	holder=1736
 }
 1071.8.26 = {

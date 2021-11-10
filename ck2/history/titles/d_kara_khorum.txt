@@ -9,3 +9,7 @@
 	clear_tribute_suzerain = k_mongolia
 	holder = 0
 }
+936.1.1 = {
+	holder = 261080
+	liege = k_liao
+}

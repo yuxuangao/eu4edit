@@ -21,7 +21,9 @@
 	#holder = 163099
 	liege=k_khiva
 }
-
+936.1.1 = {
+	holder = 261069
+}
 1052.1.1={
 	holder=3014
 }

@@ -6,6 +6,13 @@
 	liege=d_meissen
 	holder=184007
 }
+936.1.1 = {
+	liege = d_brandenburg
+	holder = 168561
+}
+937.1.1 = {
+	holder = 168562
+}
 1066.1.1={
 	holder=20266
 }

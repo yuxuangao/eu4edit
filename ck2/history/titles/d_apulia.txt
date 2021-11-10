@@ -2,7 +2,14 @@
 	liege=0
 	holder=163094
 }
+936.1.1 = {
+	holder = 260636
+	liege = e_byzantium
+	vice_royalty = yes
+}
 1042.1.1={
+	liege = 0
+	vice_royalty = no
 	holder=1122 #William I de Hauteville
 	conquest_culture=norman
 }

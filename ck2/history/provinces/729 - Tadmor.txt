@@ -20,7 +20,7 @@ culture = levantine_arabic
 religion = nestorian
 
 # History
-900.1.1 = { religion = sunni }
+1000.1.1 = { religion = sunni }
 1187.1.1 = {
 	max_settlements = 4
 	b_salhiyah = castle

@@ -125,6 +125,7 @@
 	holder = 81816 #Rhys ap Tewdwr
 }
 1093.4.1={
+	clear_tribute_suzerain = d_gwynedd
 	holder = 152
 }
 1094.1.1={
@@ -137,6 +138,7 @@
 	holder = 202992
 } 
 1135.1.1={
+	set_tribute_suzerain = { who = d_gwynedd percentage = 0.40 }
 	holder = 214810 #Gruffyd ap Rhys
 }
 1137.1.1={
@@ -164,9 +166,9 @@
 	holder = 454522
 }
 1219.5.4={
+	clear_tribute_suzerain = d_gwynedd
 	liege = k_england
 	holder = 7348 #William Marshal
-	clear_tribute_suzerain = d_gwynedd
 }
 1231.4.6 = {
 	holder = 0

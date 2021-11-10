@@ -3,6 +3,9 @@
 # County Title
 title = c_adana
 
+# Terrain
+terrain = hills
+
 # Settlements
 max_settlements = 4
 b_adana = castle
@@ -19,6 +22,8 @@ culture = greek
 religion = orthodox
 
 # History
+900.1.1 = { culture = levantine_arabic }
+900.1.1 = { religion = sunni }
 1000.1.1 = {
 	culture = armenian
 	religion = miaphysite

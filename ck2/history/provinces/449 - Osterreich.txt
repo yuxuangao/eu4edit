@@ -10,7 +10,7 @@ b_wien = tribal
 #b_wagram = castle
 
 # Misc
-culture = carantanian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -22,4 +22,10 @@ religion = slavic_pagan
 	b_wien = city
 	b_korneuburg = temple
 	capital = b_klosterneuburg
+}
+930.1.1 = {
+	b_klosterneuburg = tribal
+}
+950.1.1 = {
+	b_klosterneuburg = castle
 }

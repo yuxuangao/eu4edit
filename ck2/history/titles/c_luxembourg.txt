@@ -20,6 +20,7 @@
 }
 923.1.1={
 	liege="d_upper_lorraine"
+	holder = 11008
 }
 963.1.1={
 	liege="d_lower_lorraine"

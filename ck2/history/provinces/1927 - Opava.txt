@@ -16,7 +16,7 @@ b_bruntal = temple
 #b_oldrisov = city
 
 # Misc
-culture = bohemian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -24,6 +24,9 @@ religion = slavic_pagan
 831.1.1 = {	religion = catholic }
 1033.1.1 = {	
 	b_opava = castle
+}
+1055.1.1 = {
+	culture = bohemian
 }
 1103.1.1 = {	
 	b_krnov = city

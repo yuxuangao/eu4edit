@@ -18,6 +18,9 @@ liege="d_ohrid"
 {
 holder=168078
 }
+936.1.1 = {
+	holder = 260678
+}
 1066.1.1=
 {
 holder=20484

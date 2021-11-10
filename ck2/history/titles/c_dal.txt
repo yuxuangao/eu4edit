@@ -10,6 +10,10 @@
 863.1.1={
 	holder = 41258 # Hrane Gautske
 }
+936.1.1 = {
+	holder = 260558
+	liege = d_vastergotland
+}
 1066.1.1={
 	liege = 0
 }

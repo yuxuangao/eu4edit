@@ -8,7 +8,7 @@ max_settlements = 4
 b_melk = tribal
 
 # Misc
-culture = carantanian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -20,5 +20,11 @@ religion = slavic_pagan
 	b_melk = city
 	b_stpolten = city
 	capital = b_zelking
+}
+930.1.1 = {
+	b_zelking = tribal
+}
+950.1.1 = {
+	b_zelking = castle
 }
 

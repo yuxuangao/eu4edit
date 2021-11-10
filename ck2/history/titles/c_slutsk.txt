@@ -6,6 +6,9 @@
 	holder = 159720
 	liege = d_turov
 }
+936.1.1 = {
+	holder = 260712
+}
 1020.1.1 = {
 	holder = 256092
 	liege = d_kiev

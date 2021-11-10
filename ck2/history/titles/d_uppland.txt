@@ -29,10 +29,13 @@
 	holder = 100501
 }
 932.1.1={
-	holder = 163106
+	holder = 260553
+}
+940.1.1 = {
+	holder = 163107
 }
 950.1.1={
-	holder = 163107
+	holder = 260554
 }
 970.1.1={
 	liege="k_sweden"

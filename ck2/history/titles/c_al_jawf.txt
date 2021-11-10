@@ -13,7 +13,10 @@
 830.1.1={
 	holder = 33932
 }
-
+936.1.1 = {
+	holder = 260956
+	liege = d_arabia_petrae
+}
 1066.1.1={
 liege="d_nefoud"
 holder=20795

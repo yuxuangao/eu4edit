@@ -13,6 +13,11 @@ technology = {
 		d_achaia
 		d_krete
 		d_cyprus
+		d_amalfi
+		d_calabria
+		d_apulia
+		d_sicily
+		d_ragusa
 		d_cibyrrhaeot
 		d_anatolia
 		d_thracesia
@@ -42,9 +47,15 @@ technology = {
 	}
 	
 	769 = {
-		military = 1.2
+		military = 1.2		
 		economy = 1.5
 		culture = 1.5
+		TECH_RECRUITMENT = 3
+		TECH_CASTLE_CONSTRUCTION = 3
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_CONSTRUCTION = 3
+		TECH_MAJESTY = 2
+		TECH_LEGALISM = 3
 	}
 		
 	1337 = {
@@ -63,11 +74,13 @@ technology = {
 		military = 1.2
 		economy = 1.5
 		culture = 1.5
-		
-		TECH_FORTIFICATIONS_CONSTRUCTION = 3.0
-		TECH_CASTLE_CONSTRUCTION = 2.0
-		TECH_TEMPLE_CONSTRUCTION = 2.0
-		TECH_LEGALISM = 2.0
+		TECH_RECRUITMENT = 4
+		TECH_CASTLE_CONSTRUCTION = 3
+		TECH_CITY_CONSTRUCTION = 4
+		TECH_FORTIFICATIONS_CONSTRUCTION = 3.5
+		TECH_CONSTRUCTION = 3
+		TECH_MAJESTY = 3
+		TECH_LEGALISM = 4
 	}
 		
 	1337 = {
@@ -77,7 +90,7 @@ technology = {
 		
 		TECH_FORTIFICATIONS_CONSTRUCTION = 5
 		TECH_CASTLE_CONSTRUCTION = 5
-		TECH_TEMPLE_CONSTRUCTION = 5
+		TECH_CITY_CONSTRUCTION = 5
 		TECH_LEGALISM = 5
 	}
 }

@@ -5,6 +5,10 @@
 	liege = "d_uppland"
 	holder = 6845
 }
+936.1.1 = {
+	holder = 260562
+	liege = d_smaland
+}
 1066.1.1=
 {
 	liege="k_sweden"

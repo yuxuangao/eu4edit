@@ -17,10 +17,13 @@
 867.1.1={
 	holder=74046
 }
-
-1063.12.1=
-{
-holder=20368
+936.1.1 = {
+	holder = 260662
+	liege = d_nyitra
+}
+1063.12.1 = {
+	liege = d_ungvar
+	holder=20368
 }
 1095.1.1=
 {

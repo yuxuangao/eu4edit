@@ -35,6 +35,10 @@
 851.1.1={
 	holder=41531
 }
+936.1.1 = {
+	holder = 161200
+	liege = k_georgia
+}
 1064.1.1=
 {
 	holder=9959

@@ -8,7 +8,12 @@
 858.1.1={
 	holder = 183521
 }
+936.1.1 = {
+	holder = 102507
+	liege = "d_orkney"
+}
 1005.7.1={
+	liege = d_moray
 	holder=5998 #Findláech mac Ruaidri
 }
 1020.7.1={

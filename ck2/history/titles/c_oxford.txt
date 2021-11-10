@@ -28,6 +28,9 @@
 	liege="k_england"
 	holder=33358 
 }
+936.1.1 = {
+	holder = 33350
+}
 1066.1.5=
 {
 holder=122 # Harold Godwinson

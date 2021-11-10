@@ -4,9 +4,12 @@
 846.1.1={
 	holder = 175070
 }
+936.1.1 = {
+	holder = 189097
+	liege = d_vengi
+}
 1063.1.1={
 	holder = 189104
-	liege = d_vengi
 }
 1075.1.1 = {
 	holder = 260096

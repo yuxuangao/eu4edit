@@ -9,7 +9,7 @@ max_settlements = 3
 b_gars = tribal
 
 # Misc
-culture = bohemian
+culture = slovieni
 religion = slavic_pagan
 
 # History
@@ -17,6 +17,12 @@ religion = slavic_pagan
 	b_gars = castle
 	b_krems = city
 	religion = catholic
+}
+930.1.1 = {
+	b_gars = tribal
+}
+950.1.1 = {
+	b_gars = castle
 }
 1101.1.1 = {
 	b_kuenring = castle

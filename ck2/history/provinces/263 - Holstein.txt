@@ -16,7 +16,7 @@ religion = norse_pagan
 	culture = german
 	religion = catholic
 }
-1000.1.1 = {
+930.1.1 = {
 	b_kiel = castle
 	b_lauenburg = city
 	b_segeberg = temple

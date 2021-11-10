@@ -56,7 +56,7 @@ liege="d_carinthia"
 
 930.1.2=
 {
-	holder=32002
+	holder=260633
 }
 976.1.2=
 {

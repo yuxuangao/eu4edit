@@ -66,6 +66,10 @@
 	holder=0
 	clear_tribute_suzerain = d_hereford
 }
+936.1.1 = {
+	liege = k_england
+	holder = 260530
+}
 1066.1.1={
 	liege="k_england"
 	#law = agnatic_succession

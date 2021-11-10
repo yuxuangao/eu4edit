@@ -11,6 +11,10 @@
 884.12.12={
 	liege = "k_france"
 }
+908.1.1 = {
+	holder = 260600
+	liege = d_toulouse
+}
 1066.1.1=
 {
 	liege="d_provence"

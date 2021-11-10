@@ -1,10 +1,14 @@
 769.1.1 = {
-	liege = d_bohemia
+	liege = d_moravia
 	holder = 260053	
 }
 867.1.1 = {
 	liege = k_moravia
 	holder = 260054
+}
+936.1.1 = {
+	holder = 260588
+	liege = d_bavaria
 }
 1066.1.1={
 	liege = d_osterreich

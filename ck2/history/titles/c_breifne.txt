@@ -10,9 +10,11 @@
 }
 898.7.1={
 	holder = 83535 #Art mac Ruairc Ua Briúin
+	liege = d_connacht
 }
 955.7.1={
 	holder = 83536 #Fergal Ua Ruairc
+	liege = 0
 }
 967.7.1={
 	holder = 83537 #Áed nac Fergaile

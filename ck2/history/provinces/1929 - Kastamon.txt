@@ -13,5 +13,3 @@ culture = greek
 religion = orthodox
 
 # History
-1214.1.1 = { culture = turkish }
-1214.1.1 = { religion = sunni }

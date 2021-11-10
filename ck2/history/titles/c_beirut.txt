@@ -20,8 +20,12 @@
 890.1.1={
 	holder = 248607
 }
+936.1.1 = {
+	liege = d_damascus
+}
 940.1.1={
 	holder = 248608
+	liege = 0
 }
 970.1.1={
 	holder = 248609

@@ -9,6 +9,9 @@
 	holder = 178002
 	liege=k_kosala
 }
+936.1.1 = {
+	holder = 261125
+}
 1059.1.1={
 	holder = 144133
 	liege=d_lahore

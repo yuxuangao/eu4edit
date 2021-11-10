@@ -10,6 +10,9 @@
 855.9.20={
 	holder=30228 #Louis II
 }
+936.1.1 = {
+	holder = 167893
+}
 1066.1.1={
 	liege="d_toscana"
 }

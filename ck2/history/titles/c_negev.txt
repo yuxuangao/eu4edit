@@ -12,6 +12,10 @@
 877.1.1={
 	liege = 0
 }
+936.1.1 = {
+	holder = 260842
+	liege = d_damascus
+}
 1066.1.1=
 {
 	liege="d_jerusalem"

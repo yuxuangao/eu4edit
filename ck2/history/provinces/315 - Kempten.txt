@@ -20,4 +20,9 @@ culture = german
 religion = catholic
 
 # History
-
+936.1.1 = {
+	capital = b_augsburg
+}
+973.1.1 = {
+	capital = b_kempten
+}

@@ -13,6 +13,9 @@
 860.1.1={
 	holder = 178017
 }
+901.1.1={
+	holder = 178201
+}
 
 # 863-985: banu Sama rule
 # 985-1008: Soomra rule

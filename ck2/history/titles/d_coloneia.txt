@@ -16,10 +16,10 @@
 863.1.1={
 	holder=159725
 }
-934.1.1=
-{
-liege="e_byzantium"
-vice_royalty = yes
+934.1.1 = {
+	liege = e_byzantium
+	vice_royalty = yes
+	holder = 145173
 }
 1060.1.1=
 {
