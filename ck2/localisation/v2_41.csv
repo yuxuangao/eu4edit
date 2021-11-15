@@ -1,0 +1,51 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+khagan_overthrow_execution_warning_tooltip;`O>eNfkhV•bM–ÿHyBl[From.GetTitledName]„v`¯`0[From.GetSheHeCap]nN¸‹OÿnN	gïSýwNOv™Ç`O&&\n;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2F;bìN„v§Y$GOVERNMENT$§!?eSOAQ¸‹bìN6eÞVSãwNVwvQÖNSã„vÍSùR0;;;;;;;;;;;;x
+REL_RETIRE_DESC;ßu»lwïSåN‰Blbt^àe0W÷^ãÑS“Š;;;;;;;;;;;;x
+merchant_republic_government_desc;kOINN*NqQŒTýV5ºNŒTSú^†˜JNvQžRnN¡lÀNHN'YIS+R`OØ>f‰¶c6RôfY„v†˜0Wÿv^N—‰NMO`O¶RÏe„vçubºN0NÇÿqQŒTýV„v†˜üRMOnSO(W”N*NJN‰5ºN¶RÏeÌ‘ÇyrŠk	>NnAmÿfbc05ºNìNØïSåNîOú^8fÙzQÜuÿsSO>f(WvQÖN¿R›R„vwýNN&&;;;;;;;;;;;;x
+GOV_CAN_BUILD_DESC;ïSåNú^/$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+GOV_CANNOT_BUILD_DESC;NïSåNú^/0W¶N;;;;;;;;;;;;x
+GOV_CAN_NOT_IMPRISON_DESC;‚Yœg¡l	gyrŠkŸSàVÿNïSÚVyã^S;;;;;;;;;;;;x
+GOV_ALLOW_REVOKATION_DESC;Sã4YTˆïSåN«ˆeRIYÿàe—yršR„vÕl‹V;;;;;;;;;;;;x
+GOV_CAN_NOT_REVOKE_DESC;‚Yœg¡l	gyrŠkŸSàVÿNýweRIY4YTˆ;;;;;;;;;;;;x
+GOV_CAN_HOLD_DESC;ïSåNàeé`Zc	g$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+GOV_CAN_HOLD_CULTURE_DESC;ïSåN(WT‡eSwýN…Qàeé`Zc	g$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+GOV_CAN_HOLD_RELIGION_DESC;ïSåN(WT—RYewýN…Qàeé`Zc	g$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+GOV_CAN_HOLD_CULTURE_RELIGION_DESC;ïSåN(WT‡eSÊS—RYewýN…Qàeé`Zc	g$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+GOV_ADDITIONAL_COMMANDERS_DESC;	g$NUM$T˜Yc%c˜R;;;;;;;;;;;;x
+GOV_FEWER_COMMANDERS_DESC;$NUM$*Nc%c˜R;;;;;;;;;;;;x
+GOV_MOVE_CAPITAL_DELAY_DESC;(WNu-NÏk”–$NUM$*NgïSåNûy¨RN!k–™ý;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_GOVERNMENTS_DESC;ïSåNeRIY$GOVERNMENT_LIST$?eSO„vSã4YTˆwNVwvQÖNSã„vÍSùR0;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_GOVERNMENTS_CULTURE_DESC;ïSåNeRIY$GOVERNMENT_LIST$?eSONNT‡eS„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_GOVERNMENTS_RELIGION_DESC;ïSåNeRIY$GOVERNMENT_LIST$?eSONNT—RYe„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_GOVERNMENTS_CULTURE_RELIGION_DESC;ïSåNeRIY$GOVERNMENT_LIST$?eSONNT‡eSŒT—RYe„vSã„v4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_TIER_DESC;ïSåN6eÞV$TIER_LIST$Ir¶u„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_TIER_CULTURE_DESC;ïSåNeRIY$TIER_LIST$Ir¶uNNT‡eS„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_TIER_RELIGION_DESC;ïSåNeRIY$TIER_LIST$Ir¶uNNT—RYe„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_FREE_REVOKE_ON_TIER_CULTURE_RELIGION_DESC;ïSåNeRIY$TIER_LIST$Ir¶uNNT‡eSŒT—RYe„vSã4YTˆwNVwvQÖNSã„vÍSùR;;;;;;;;;;;;x
+GOV_VASSAL_CALL_TO_ARMS_DESC;ïSåNìS3U$GOVERNMENT_LIST$?eSO„vSãÂSbwN>f(uÖNìNÐc›O„vVìSuQ;;;;;;;;;;;;x
+GOV_NO_VASSAL_TAX_DESC;NÎN$GOVERNMENT_LIST$?eSO„vSã²Ì‘·ƒ—Vz6e;;;;;;;;;;;;x
+GOV_FORCED_CONTRACT_DESC;^SŽN$GOVERNMENT_LIST$?eSO„vSãìNNº‹ŒYa„vYSýO³NgY„vzŒTÐc›OgY„vVìSuQ0ùR…VÙ›NSãìN„v´fTLˆINNO×S0RvQÖN?eSO„vSãìNÍSùR;;;;;;;;;;;;x
+GOV_IGNORE_IN_VASSAL_LIMIT_CALCULATION_DESC;$GOVERNMENT_LIST$?eSO„vSãN(WSãNP–„v¡‹—rKN…Q;;;;;;;;;;;;x
+LANDLESS;àe0W„v;;;;;;;;;;;;x
+GOV_BUILD_WITH_PRESTIGE_DESC;(uZgegú^/$HOLDINGS_LIST$0W¶N;;;;;;;;;;;;x
+BUILD_PRESTIGE_OR_PIETY_FORT_DESC;!X’WïSåN(W`O¶c6R„vûNUON*NwýNú^/ÿnNïSåN(W`OSVMR›Q–ŠšNb„vLeùRwýNú^/0ú^/!X’WS±‚9§Y$COST$§!ÿv^NïSåN«ˆGS¶uINck8^„vÎW!X0W¶NÿÇ§GóS.•¹pûQ!X’W§!	ÿ0!X’WïSåN.^©R•šR`O`S†˜„v8ngrzz0WÿØýwO`O(WN›NŸSËY—RYe¶RíVNQ×S0RèTÏ‘ncwé`Z0;;;;;;;;;;;;x
+tribal_desc;èL„00W¶N0êSÐc›OgS„v6eeQÿwNÏk*NwýNêSýw	gN*NèL„00W¶N00Ù›N00W¶N0ãNhˆte*NSV0WèL„ºNãS0W¶Nzzò•<hpeŠYÿèL„0W¶N1SŠIV0;;;;;;;;;;;;x
+dejure_barony_claim_desc;§Y$TITLE$§!Ì‘„v0W¶N(WÕltNý^SŽN§Y$CLAIMANT$§!ÿÙÙu†NbìNÑS¨Rb‰N„vEQ³t1u0;;;;;;;;;;;;x
+CB_NAME_DEJUREBARONYCLAIM;[Title.GetBaseName]0W¶N;;;;;;;;;;;;x
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$ $FIRST_ADJ$$SECOND_ADJ$‰NIY$OTHER_TITLE$Õlt†˜0Wb‰N;;;;;;;;;;;;x
+convert_to_feudalism_indep;Ç‘(uSú^6R;;;;;;;;;;;;x
+convert_to_feudalism_indep_desc;Ç‘(uSú^6RSŠbbOb	g„vèL„0W¶NlØSINÎW!X0‚YœgÙWWwýN³Y'YÿwNÎW^N^y¿k0W¶Nv^*gXR(WÿnNOubÎW^N^y™^0‚Yœg`O„vSãN`OT—RYeN‡eSÿÖNìNnNˆVïSýw‚YÕl®p6R0;;;;;;;;;;;;x
+convert_to_feudalism_vassal;Ç‘(uSú^6R;;;;;;;;;;;;x
+convert_to_feudalism_vassal_desc;Ç‘(uSú^6RSŠbbOb	g„vèL„0W¶NlØSINÎW!X0‚YœgÙWWwýN³Y'YÿwNÎW^N^y™^0W¶Nv^*gXR(WÿnNOubÎW^N^y¿k0‚Yœg`O„vSãN`OT—RYeN‡eSÿÖNìNnNˆVïSýw‚YÕl®p6R0;;;;;;;;;;;;x
+convert_to_republic_indep;bËzFUNqQŒTýV;;;;;;;;;;;;x
+convert_to_republic_indep_desc;bËzFUNqQŒTýVOO—Vb„vOb	gèL„0W¶NlØSINÎW^0‚YœgÙWWwýN³Y'YNàeÎW!XN^y¿k0W¶NÿnNOubÎW!XN^y¿k0ÛVMOT„vSãSOú^Ëz5ºN¶RÏe0;;;;;;;;;;;;x
+EVTDESC55100;`O„vèL„Sãÿ[From.GetTitledName]òTÏuÇ‘(uSú^6R0;;;;;;;;;;;;x
+convert_tribal_to_castle_desc;bïSåNŠb[Root.GetFullName]KfGSINN¶^wck„vÎW!X0‚Yœgå‹ÎW!X>fwýN–™œ^ÿTöeå‹wýN³Y'YÿNàeÎW^N^y¿k0W¶NÿnNOubÎW^N^y¿k0;;;;;;;;;;;;x
+convert_tribal_to_city_desc;bïSåNŠb[Root.GetFullName]KfGSINN¶^wck„vÎW^0‚Yœgå‹ÎW!X>fwýN–™œ^ÿTöeå‹wýN³Y'YÿNàeÎW!XN^y¿k0W¶NÿnNOubÎW!XN^y¿k0;;;;;;;;;;;;x
+OCCUPATION_MODIFIER;`S†˜W0WîOck;;;;;;;;;;;;x
+OCCUPATION_POP_GROWTH_MODIFIER;ºNãSžX•ÿJ`	ÿ;;;;;;;;;;;;x
+PROVINCE_HAS_FORT_DISCOUNT;1uŽNú^/†NN*N°e0W¶NÿÙ*NwýN„v§Y‰^X§!O«ˆûyd–ÿkOINeˆPÿú^/b,gOÏQS0;;;;;;;;;;;;x
+DONT_BORDERS_LAKE;N×k»VnÊl0;;;;;;;;;;;;x
+BORDERS_LAKE;×k»VnÊl0;;;;;;;;;;;;x
