@@ -1,0 +1,32 @@
+decisions = {
+	edit_search_artifact = {
+		only_playable = yes
+		ai_check_interval = 60
+
+		potential = {
+			is_playable = yes
+			age = 16
+			NOT = { has_character_flag = edit_search_artifact }
+		}
+
+		allow = {
+			wealth = 100
+			war = no
+		}
+
+		effect = {
+			wealth = -100
+			character_event = {
+				id = EDIT.1001
+				days = 10
+				random = 50
+				tooltip = EVTTOLTIPEDIT1001
+			}
+			set_character_flag = edit_search_artifact
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

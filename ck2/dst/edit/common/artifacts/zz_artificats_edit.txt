@@ -1,0 +1,42 @@
+edit_artificat_general_1 = {
+	quality = 1
+	general_opinion	= 5
+	flags = { edit }
+	picture = "GFX_chinese_tapestry"
+	stacking = no
+}
+
+edit_artificat_general_2 = {
+	quality = 2
+	general_opinion	= 5
+	global_tax_modifier = 0.05
+	flags = { edit }
+	picture = "GFX_chinese_tapestry"
+	stacking = no
+}
+
+edit_artificat_general_3 = {
+	quality = 2
+	demesne_size = 1
+	global_revolt_risk = -0.01
+	flags = { edit }
+	picture = "GFX_chinese_tapestry"
+	stacking = no
+}
+
+edit_artificat_mil_1 = {
+	quality = 2
+	retinuesize	= 200
+	flags = { edit }
+	picture = "GFX_chinese_tapestry"
+	stacking = no
+}
+
+edit_artificat_mil_2 = {
+	quality = 3
+	retinuesize	= 400
+	land_morale = 0.1
+	flags = { edit }
+	picture = "GFX_chinese_tapestry"
+	stacking = no
+}
