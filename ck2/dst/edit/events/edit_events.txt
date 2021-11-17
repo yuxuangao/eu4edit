@@ -3,7 +3,7 @@ namespace = EDIT
 character_event = {
 	id = EDIT.9000
 	desc = EVTDESCEDIT.9000
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -24,6 +24,7 @@ character_event = {
 	option = {
 		name = EVTOPTAEDIT.9000
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -32,7 +33,7 @@ character_event = {
 character_event = {
 	id = EDIT.9001
 	desc = EVTDESCEDIT.9001
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -58,6 +59,7 @@ character_event = {
 		name = EVTOPTAEDIT.9001
 		add_artifact = edit_artificat_general_1
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -66,7 +68,7 @@ character_event = {
 character_event = {
 	id = EDIT.9002
 	desc = EVTDESCEDIT.9002
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -92,6 +94,7 @@ character_event = {
 		name = EVTOPTAEDIT.9002
 		add_artifact = edit_artificat_general_2
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -100,7 +103,7 @@ character_event = {
 character_event = {
 	id = EDIT.9003
 	desc = EVTDESCEDIT.9003
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -126,6 +129,7 @@ character_event = {
 		name = EVTOPTAEDIT.9003
 		add_artifact = edit_artificat_general_3
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -134,7 +138,7 @@ character_event = {
 character_event = {
 	id = EDIT.9004
 	desc = EVTDESCEDIT.9004
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -160,6 +164,7 @@ character_event = {
 		name = EVTOPTAEDIT.9004
 		add_artifact = edit_artificat_mil_1
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -168,7 +173,7 @@ character_event = {
 character_event = {
 	id = EDIT.9005
 	desc = EVTDESCEDIT.9005
-	picture = GFX_evt_battle
+	picture = GFX_evt_bloodlines
 	border = GFX_event_normal_frame_war
 
 	only_playable = true
@@ -194,6 +199,7 @@ character_event = {
 		name = EVTOPTAEDIT.9005
 		add_artifact = edit_artificat_mil_2
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}
@@ -236,6 +242,7 @@ character_event = {
 	option = {
 		name = EVTOPTDEDIT.1001
 		clr_character_flag = edit_search_artifact
+		clr_character_flag = edit_search_artifact_start
 		clr_character_flag = edit_search_artifact_faster
 		clr_character_flag = edit_search_artifact_much_faster
 	}

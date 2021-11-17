@@ -7,6 +7,7 @@ decisions = {
 			is_playable = yes
 			age = 16
 			NOT = { has_character_flag = edit_search_artifact }
+			NOT = { has_character_flag = edit_search_artifact_start }
 		}
 
 		allow = {
@@ -22,7 +23,7 @@ decisions = {
 				random = 50
 				tooltip = EVTTOLTIPEDIT1001
 			}
-			set_character_flag = edit_search_artifact
+			set_character_flag = edit_search_artifact_start
 		}
 
 		ai_will_do = {

@@ -28,3 +28,5 @@ EVTOPTBEDIT.1001;花钱寻找;;;;;;;;;;;;;x
 EVTOPTCEDIT.1001;开始寻找;;;;;;;;;;;;;x
 EVTOPTDEDIT.1001;算了;;;;;;;;;;;;;x
 EVTTOLTIPEDIT1001;开始寻找一件宝物;;;;;;;;;;;;;x
+edit_search_artifact;寻找宝物;;;;;;;;;;;;;x
+edit_search_artifact_desc;开始寻找一件宝物;;;;;;;;;;;;;x

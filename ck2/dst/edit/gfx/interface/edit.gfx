@@ -1,0 +1,6 @@
+spriteTypes = {
+  spriteType = {
+    name = "GFX_edit_search_artifact"
+    texturefile = "gfx\\interface\\decision_icon_hold_a_furusiyya.dds"
+  }
+}

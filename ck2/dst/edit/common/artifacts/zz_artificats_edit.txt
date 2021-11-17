@@ -2,7 +2,7 @@ edit_artificat_general_1 = {
 	quality = 1
 	general_opinion	= 5
 	flags = { edit }
-	picture = "GFX_chinese_tapestry"
+	picture = "GFX_sampo"
 	stacking = no
 }
 
@@ -20,7 +20,7 @@ edit_artificat_general_3 = {
 	demesne_size = 1
 	global_revolt_risk = -0.01
 	flags = { edit }
-	picture = "GFX_chinese_tapestry"
+	picture = "GFX_magnificent_painting"
 	stacking = no
 }
 
@@ -28,7 +28,7 @@ edit_artificat_mil_1 = {
 	quality = 2
 	retinuesize	= 200
 	flags = { edit }
-	picture = "GFX_chinese_tapestry"
+	picture = "GFX_book_govt_court"
 	stacking = no
 }
 
@@ -37,6 +37,6 @@ edit_artificat_mil_2 = {
 	retinuesize	= 400
 	land_morale = 0.1
 	flags = { edit }
-	picture = "GFX_chinese_tapestry"
+	picture = "GFX_jian_sword"
 	stacking = no
 }
